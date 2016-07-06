@@ -1,0 +1,38 @@
+highlighter: pygments
+markdown: rdiscount
+rdiscount:
+extensions: [smart]
+permalink: /:title.html
+paginate: 5
+gems: [jekyll-paginate]
+port: 3000
+safe: true
+
+
+url: http://amalrkrishna.github.io/
+baseurl: http://amalrkrishna.github.io/
+title: Amal Krishna R
+author: Amal Krishna R
+description: Homepage of Amal Krishna R.
+avatar: profile.png
+name: Amal Krishna R
+email: amal.k.1994@ieee.org
+email_full: amal.k.1994@ieee.org
+website: GitHub site
+website_full: amalrkrishna.github.io
+github: amalrkrishna # username
+twitter: amalrkrishna94
+linkedin: amal-krishna-r-55b69a98
+google_analytics: UA-78468673-1
+quora: Amal-R-Krishna #does not work
+facebook: Ak.Grandiose #does not work
+tel: +91 94970 59502
+tel_full: tel:+919497059502
+google_maps: 'https://www.google.co.in/maps/place/Kannammoola,+Thiruvananthapuram,+Kerala/@8.5039161,76.9255026,16z/data=!3m1!4b1!4m5!3m4!1s0x3b05bbed155b36e7:0x8e7164da54682d2!8m2!3d8.5047689!4d76.9311761?hl=en'
+address: KRA 328A, Krishna Kripa, Medical College
+postcode: 695011
+city: Thiruvananthapuram
+country: India
+
+# needed for travis-ci build
+exclude: [vendor]
