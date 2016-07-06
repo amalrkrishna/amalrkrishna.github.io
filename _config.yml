@@ -5,6 +5,8 @@ extensions: [smart]
 permalink: /:title.html
 paginate: 5
 gems: [jekyll-paginate]
+gems:
+  - jekyll-seo-tag
 port: 3000
 safe: true
 
