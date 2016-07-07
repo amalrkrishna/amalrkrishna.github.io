@@ -105,12 +105,13 @@ body {
   color: #00688B;
 }
 .img-responsive {
+
+  background-color: transparent;
  display: block;
  height: auto;
  max-width: 100%;
 }
 .panel-default h4 {
-  background-color: transparent;
   text-align: left;
   line-height: 24px;
   font-size: 22px;
