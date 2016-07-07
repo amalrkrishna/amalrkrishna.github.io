@@ -83,7 +83,7 @@ body {
   }
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a, .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
     color: #6b6b6b;
-    background-color: #F8F8FF;
+    background-color: #ffffff;
   }
 }
 
@@ -110,6 +110,7 @@ body {
  max-width: 100%;
 }
 .panel-default h4 {
+  background-color: transparent;
   text-align: left;
   line-height: 24px;
   font-size: 22px;
