@@ -5,9 +5,9 @@ body {
   height: auto;
   width: 100%;
   background-image: url("wallhaven.jpg");
-    background-repeat: no-repeat;
-    background-position: right top;
-    background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-attachment: fixed;
   font-family: "Raleway", Helvetica, Arial, sans-serif;
   /* The html and body elements cannot have any padding or margin. */
   border-top: 4px solid #00688B;
@@ -30,7 +30,7 @@ body {
   margin-bottom: 10px;
 }
 .navbar-default {
-  background-color: #000000;
+  background-color: transparent;
   border-color: #000000;
   font-size: 12px;
 }
