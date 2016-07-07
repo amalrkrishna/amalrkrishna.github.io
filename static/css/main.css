@@ -3,7 +3,7 @@
 html,
 body {
   height: 100%;
-  background-image: url("/img/wallhaven.jpg");
+  background-image: url("wallhaven.jpg");
   font-family: "Raleway", Helvetica, Arial, sans-serif;
   /* The html and body elements cannot have any padding or margin. */
   border-top: 4px solid #00688B;
