@@ -4,7 +4,8 @@ html,
 body {
   height: auto;
   width: 100%;
-  background-image: url("wallhaven.jpg");
+  /*background-image: url("wallhaven.jpg");*/
+  background-color: #ffffff;
   background-repeat: no-repeat;
   background-position: right top;
   background-attachment: fixed;
