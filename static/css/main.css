@@ -2,13 +2,8 @@
 -------------------------------------------------- */
 html,
 body {
-  height: auto;
-  width: 100%;
-  /*background-image: url("wallhaven.jpg");*/
+  height: 100%;
   background-color: #F8F8FF;
-  /*background-repeat: no-repeat;
-  background-position: right top;
-  background-attachment: fixed;*/
   font-family: "Raleway", Helvetica, Arial, sans-serif;
   /* The html and body elements cannot have any padding or margin. */
   border-top: 4px solid #00688B;
@@ -32,7 +27,7 @@ body {
 }
 .navbar-default {
   background-color: #F8F8FF;
-  border-color: #000000;
+  border-color: #F8F8FF;
   font-size: 12px;
 }
 .navbar-default .navbar-brand {
