@@ -6,9 +6,9 @@ body {
   width: 100%;
   /*background-image: url("wallhaven.jpg");*/
   background-color: #F8F8FF;
-  background-repeat: no-repeat;
+  /*background-repeat: no-repeat;
   background-position: right top;
-  background-attachment: fixed;
+  background-attachment: fixed;*/
   font-family: "Raleway", Helvetica, Arial, sans-serif;
   /* The html and body elements cannot have any padding or margin. */
   border-top: 4px solid #00688B;
