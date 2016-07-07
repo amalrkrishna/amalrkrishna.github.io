@@ -99,7 +99,7 @@ body {
   margin: 20px 0;
 }
 .container a {
-  background-color: #00688B;
+  color: #00688B;
 }
 .container a:hover {
   color: #00688B;
@@ -110,7 +110,7 @@ body {
  max-width: 100%;
 }
 .panel-default {
-  color: #F8F8FF;
+  background-color: #F8F8FF;
 }
 .panel-default h4 {
   text-align: left;
