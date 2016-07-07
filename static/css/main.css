@@ -41,7 +41,7 @@ body {
 }
 .navbar-default .navbar-nav > li > a {
   color: #6b6b6b;
-  border-bottom: 2px solid #ffffff
+  border-bottom: 2px solid #F8F8FF
 }
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
   color: #6b6b6b;
