@@ -112,16 +112,19 @@ body {
  max-width: 100%;
 }
 .panel-default h4 {
+background-color: transparent;
   text-align: left;
   line-height: 24px;
   font-size: 22px;
 }
 .panel-default h5 {
+background-color: transparent;
   text-align: left;
   line-height: 30px;
   font-size: 18px;
 }
 .panel-default h6 {
+background-color: transparent;
   font-size: 15px;
 }
 .panel-default h4 a, h5 a {
