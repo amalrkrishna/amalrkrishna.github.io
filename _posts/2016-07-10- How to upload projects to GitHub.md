@@ -17,7 +17,7 @@ $ git init
 $ git add .
 $ git commit -m "write comment here"
 $ sudo git remote add origin https://github.com/username/projectname
-$ git pull origin master [add --force if it doesn't work]
+$ git pull origin master
 $ git push origin master [add --force if it doesn't work]
 {% endhighlight %}
 
