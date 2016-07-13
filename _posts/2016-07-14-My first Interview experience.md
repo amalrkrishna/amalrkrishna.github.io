@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  My first Interview experience (RedHat)
+title:  My first Interview experience
 tags:
 - Interview
 - RedHat
