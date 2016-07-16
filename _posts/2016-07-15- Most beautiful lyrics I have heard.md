@@ -11,7 +11,7 @@ tags:
 <p align="justify">I went through my playlist once and picked out some songs whose lyrics meant a great deal to me. Most of these lines are very simple, all of it makes it into my list because: Either I liked the whole lyrics of the song or just the part I have mentioned, or I was able to relate to the lines in these lines somehow, or because of a movie or TV series I have watched, and some of these lines reciprocate the way I see the world. So, like I said, the list is just a personal one. :)</p>
 
 <ol>
-<li><b>All of Me, John Legend</b> </li><i>
+<li><b>All of Me, John Legend</b></li><i>
     Love your curves and all your edges<br>
     All your perfect imperfections<br>
     Give your all to me, I'll give my all to you<br>
@@ -20,7 +20,7 @@ tags:
     'Cause I give you all of me<br>
     And you give me all of you, oh<br>
 
-</i><li>As long as you love me, Backstreet Boys </li><i>
+</i><li><b>As long as you love me, Backstreet Boys </b></li><i>
  
     Although loneliness has always been a friend of mine<br>
     I'm leavin' my life in your hands<br>
@@ -32,7 +32,7 @@ tags:
     As long as you're here with me<br>
  
 
-</i><li>Bad Day, Daniel Powter </li><i>
+</i><li><b>Bad Day, Daniel Powter </b></li><i>
  
     You stand in the line just ahead of the law<br>
     You're faking a smile with the coffee you go<br>
@@ -44,7 +44,7 @@ tags:
     You sing a sad song just to turn it around<br>
  
 
-</i><li>Boulevard of Broken Dreams, Green Day </li><i>
+</i><li><b>Boulevard of Broken Dreams, Green Day </b></li><i>
  
     My shadow's the only one that walks beside me<br>
     My shallow heart's the only thing that's beating<br>
@@ -52,7 +52,7 @@ tags:
     Till then I walk alone<br>
  
 
-</i><li>Bring me to life, Evanescence </li><i>
+</i><li><b>Bring me to life, Evanescence </b></li><i>
  
     How can you see into my eyes like open doors<br>
     Leading you down into my core<br>
@@ -61,7 +61,7 @@ tags:
     Until you find it there and lead it back home<br>
  
 
-</i><li>Comfortable Numb, Pink Floyd </li><i>
+</i><li><b>Comfortable Numb, Pink Floyd </b></li><i>
  
     There is no pain, you are receding<br>
     A distant ship's smoke on the horizon<br>
@@ -69,7 +69,7 @@ tags:
     Your lips move but I can't hear what you're saying<br>
  
 
-</i><li>Earth Song, Michael Jackson </li><i>
+</i><li><b>Earth Song, Michael Jackson </b></li><i>
  
     What about sunrise<br>
     What about rain<br>
@@ -85,7 +85,7 @@ tags:
     The crying Earth the weeping shores?<br>
  
 
-</i><li>(Everything I Do) I Do It For You, Bryan Adams </li><i>
+</i><li><b>(Everything I Do) I Do It For You, Bryan Adams </b></li><i>
  
     Don't tell me it's not worth tryin' for<br>
     You can't tell me it's not worth dyin' for<br>
@@ -93,7 +93,7 @@ tags:
     Everything I do, I do it for you<br>
  
 
-</i><li>Fix You, Coldplay </li><i>
+</i><li><b>Fix You, Coldplay </b></li><i>
  
     And high up above or down below<br>
     When you're too in love to let it go<br>
@@ -105,7 +105,7 @@ tags:
     And I will try to fix you<br>
  
 
-</i><li>Good Riddance, Green Day </li><i>
+</i><li><b>Good Riddance, Green Day </b></li><i>
  
     So take the photographs, and still frames in your mind<br>
     Hang it on a shelf in good health and good time<br>
@@ -116,7 +116,7 @@ tags:
     I hope you had the time of your life<br>
  
 
-</i><li>Heal the World, Michael Jackson </li><i>
+</i><li><b>Heal the World, Michael Jackson </b></li><i>
  
     There's a place in your heart<br>
     And I know that it is love<br>
@@ -128,7 +128,7 @@ tags:
     There's no hurt or sorrow..<br>
  
 
-</i><li>Hey Jude, The Beatles </li><i>
+</i><li><b>Hey Jude, The Beatles </b></li><i>
  
     Hey Jude, don't make it bad<br>
     Take a sad song and make it better<br>
@@ -136,7 +136,7 @@ tags:
     Then you can start to make it better<br>
  
 
-</i><li>Hotel California, Eagles </li><i>
+</i><li><b>Hotel California, Eagles </b></li><i>
  
     Mirrors on the ceiling,<br>
     The pink champagne on ice<br>
@@ -147,7 +147,7 @@ tags:
     But they just can't kill the beast<br>
  
 
-</i><li>I'll Be There For You, The Rembrandts </li><i>
+</i><li><b>I'll Be There For You, The Rembrandts </b></li><i>
  
     No one could ever know me<br>
     No one could ever see me<br>
@@ -157,7 +157,7 @@ tags:
     Even at my worst, I'm best with you, yeah!<br>
  
 
-</i><li>In The End, Linkin Park </li><i>
+</i><li><b>In The End, Linkin Park </b></li><i>
  
     Time is a valuable thing<br>
     Watch it fly by as the pendulum swings<br>
@@ -170,7 +170,7 @@ tags:
     I wasted it all just to watch you go<br>
  
 
-</i><li>Is This love, Bob Marley </li><i>
+</i><li><b>Is This love, Bob Marley </b></li><i>
  
     I wanna love you and treat you right<br>
     I wanna love you every day and every night<br>
@@ -181,7 +181,7 @@ tags:
     Is this love that I'm feelin'?<br>
  
 
-</i><li>Kashmir, Led Zeppelin </li><i>
+</i><li><b>Kashmir, Led Zeppelin </b></li><i>
  
     Oh let the sun beat down upon my face, stars to fill my dream<br>
     I am a traveler of both time and space, to be where I have been<br>
@@ -189,7 +189,7 @@ tags:
     They talk of days for which they sit and wait and all will be revealed<br>
  
 
-</i><li>Let It Be, The Beatles </li><i>
+</i><li><b>Let It Be, The Beatles </b></li><i>
  
     When I find myself in times of trouble<br>
     Mother Mary comes to me<br>
@@ -199,7 +199,7 @@ tags:
     Speaking words of wisdom, let it be<br>
  
 
-</i><li>Lose Yourself, Eminem </li><i>
+</i><li><b>Lose Yourself, Eminem </b></li><i>
  
     You better lose yourself in the music, the moment<br>
     You own it, you better never let it go<br>
@@ -207,7 +207,7 @@ tags:
     This opportunity comes once in a lifetime<br>
  
 
-</i><li>Mad World, Gary Jules </li><i>
+</i><li><b>Mad World, Gary Jules </b></li><i>
  
     And I find it kinda funny<br>
     I find it kinda sad<br>
@@ -219,7 +219,7 @@ tags:
     It's a very, very mad world, mad world<br>
  
 
-</i><li>Nothing Else Matters, Metallica </li><i>
+</i><li><b>Nothing Else Matters, Metallica </b></li><i>
  
     So close no matter how far<br>
     Couldn't be much more from the heart<br>
@@ -231,7 +231,7 @@ tags:
     But I know<br>
  
 
-</i><li>November Rain, Guns n' Roses </li><i>
+</i><li><b>November Rain, Guns n' Roses </b></li><i>
  
     'Cause nothin' lasts forever<br>
     And we both know hearts can change<br>
@@ -239,7 +239,7 @@ tags:
     In the cold November rain<br>
  
 
-</i><li>Photograph, Ed Sheeran </li><i>
+</i><li><b>Photograph, Ed Sheeran </b></li><i>
  
     We keep this love in a photograph<br>
     We made these memories for ourselves<br>
@@ -256,14 +256,14 @@ tags:
     Wait for me to come home<br>
  
 
-</i><li>Rolling in the Deep, Adele </li><i>
+</i><li><b>Rolling in the Deep, Adele </b></li><i>
  
     There's a fire starting in my heart<br>
     Reaching a fever pitch, it's bringing me out the dark<br>
     Finally I can see you crystal clear<br>
  
 
-</i><li>Set fire to the Rain, Adele </li><i>
+</i><li><b>Set fire to the Rain, Adele </b></li><i>
  
     But I set fire to the rain,<br>
     Watched it pour as I touched your face,<br>
@@ -271,7 +271,7 @@ tags:
     'Cause I heard it screaming out your name, your name!<br>
  
 
-</i><li>Shadow of the Day, Linkin Park </li><i>
+</i><li><b>Shadow of the Day, Linkin Park </b></li><i>
  
     I close both locks below the window<br>
     I close both blinds and turn away<br>
@@ -283,7 +283,7 @@ tags:
     Will embrace the world in grey<br>
  
 
-</i><li>Show me the meaning of being lonely, Backstreet Boys </li><i>
+</i><li><b>Show me the meaning of being lonely, Backstreet Boys </b></li><i>
  
     So many words for the broken heart<br>
     It's hard to see in a crimson love<br>
@@ -295,7 +295,7 @@ tags:
     They tell me<br>
  
 
-</i><li>Somebody that I used to know, Gotye </li><i>
+</i><li><b>Somebody that I used to know, Gotye </b></li><i>
  
     But you didn't have to cut me off<br>
     Make out like it never happened and that we were nothing<br>
@@ -307,14 +307,14 @@ tags:
     Now you're just somebody that I used to know<br>
  
 
-</i><li>Stairway to Heaven, Led Zeppelin </li><i>
+</i><li><b>Stairway to Heaven, Led Zeppelin </b></li><i>
  
     Yes, there are two paths you can go by, but in the long run<br>
     There’s still time to change the road you’re on<br>
     And it makes me wonder<br>
  
 
-</i><li>Summer of 69, Bryan Adams </li><i>
+</i><li><b>Summer of 69, Bryan Adams </b></li><i>
  
     Oh, when I look back now<br>
     That summer seemed to last forever<br>
@@ -323,7 +323,7 @@ tags:
     Those were the best days of my life<br>
  
 
-</i><li>That's the way it is, Celine Dion </li><i>
+</i><li><b>That's the way it is, Celine Dion </b></li><i>
  
     When you want it the most there's no easy way out<br>
     When you're ready to go and your heart's left in doubt<br>
@@ -331,7 +331,7 @@ tags:
     Love comes to those who believe it<br>
     And that's the way it is<br>
 
-</i><li>Thinking out loud, Ed Sheeran </li><i>
+</i><li><b>Thinking out loud, Ed Sheeran </b></li><i>
  
     Take me into your loving arms<br>
     Kiss me under the light of a thousand stars<br>
@@ -340,7 +340,7 @@ tags:
     Maybe we found love right where we are<br>
  
 
-</i><li>Time, Pink Floyd </li><i>
+</i><li><b>Time, Pink Floyd </b></li><i>
  
     Every year is getting shorter, never seem to find the time<br>
     Plans that either come to naught or half a page of scribbled lines<br>
@@ -348,7 +348,7 @@ tags:
     The time is gone, the song is over, thought I'd something more to say<br>
  
 
-</i><li>Viva La Vida, Coldplay </li><i>
+</i><li><b>Viva La Vida, Coldplay </b></li><i>
  
     I used to rule the world<br>
     Seas would rise when I gave the word<br>
@@ -356,7 +356,7 @@ tags:
     Sweep the streets I used to own<br>
  
 
-</i><li>Wake me up when September ends, Green Day </li><i>
+</i><li><b>Wake me up when September ends, Green Day </b></li><i>
  
     Here comes the rain again<br>
     Falling from the stars<br>
@@ -367,7 +367,7 @@ tags:
     Wake me up when September ends<br>
  
 
-</i><li>With or without you, U2 </li><i>
+</i><li><b>With or without you, U2 </b></li><i>
  
     See the stone set in your eyes<br>
     See the thorn twist in your side<br>
