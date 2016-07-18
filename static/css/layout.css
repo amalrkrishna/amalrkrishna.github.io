@@ -8,6 +8,14 @@ body {
     border-bottom: 5px solid #00688B;
 }
 
+blockquote {
+    display: block;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
 .container {
     margin-top: 50px;
 }
