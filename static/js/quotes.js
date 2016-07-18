@@ -1,4 +1,4 @@
-(function() {
+jQuery(document).ready(function($) {
 
     var quotes = $(".quotes");
     var quoteIndex = -1;
