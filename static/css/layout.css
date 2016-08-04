@@ -69,7 +69,7 @@ article {
     margin-bottom: 10px;
 }
 
-article > div > header > h1 {
+article > header > h1 {
     font-size: 112%;
     font-weight: bold;
     line-height: 150%;
@@ -77,32 +77,32 @@ article > div > header > h1 {
     color: inherit;
 }
 
-article > div > header > span + span {
+article > header > span + span {
     margin-left: 2px;
 }
 
-article > div > header > span + span::before {
+article > header > span + span::before {
     margin-right: 4px;
 }
 
-article > div > header > span {
+article > header > span {
     color: #808080;
     font-size: 100%;
 }
 
-article > div > header > span a {
+article > header > span a {
     color: inherit;
 }
 
-article > div > header address {
+article > header address {
     display: inline;
 }
 
-article > div > header address + time {
+article > header address + time {
     margin-left: 6px;
 }
 
-article > div > header address + time::before {
+article > header address + time::before {
     content: '—';
     margin-right: 6px;
 }
