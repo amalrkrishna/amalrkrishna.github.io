@@ -8,6 +8,8 @@ tags:
 - Post
 ---
 
+<img src="http://static.dnaindia.com/sites/default/files/styles/half/public/2016/01/03/410734-exams.jpg?itok=y1irbeGx" alt="Preparing for CBSE AISSCE in two months" width="100%"> 
+
 <p align="justify">This is my story on how I prepared for CBSE AISSCE 2012 in the last two months. I was a computer science student and I was done with my 2nd pre-board exam on the first week of February 2012. It was the last preparatory exam offered by my school prior to the CBSE board exam which started on March 1, 2012. All my 12th scores were around 60 - 70% which hit rock bottom of 54.6% overall (PCM + Eng + CS) in the 2nd pre-board exam. So I had almost one month between the first week of February to the first exam English which was on 1st March, to do something to turn the results around. If you are from India, you will know that this will be accompanied by a great deal of pressure from parents as well. </p>
 
 <ol>
