@@ -8,6 +8,8 @@ tags:
 - Post
 ---
 
+<img src="https://s12.postimg.io/xcbdvpb59/voyage.png" alt="Installing Voyage 0.9.2 Linux in ALIX" width="100%">
+
 <p align="justify">Voyage Linux is derived from Debian to run on an x86 embedded platforms such as PC Engines ALIX. Start the ALIX board with a bootable Voyage Linux USB drive.</p>
 
 <ol>
