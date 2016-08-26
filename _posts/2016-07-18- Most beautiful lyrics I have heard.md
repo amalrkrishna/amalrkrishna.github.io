@@ -8,6 +8,8 @@ tags:
 - Post
 ---
 
+<img src="http://media.nu.nl/m/m1oxiu0ammly_wd1280.jpg/waar-hotel-california-echt-gaat.jpg" alt="Most beautiful lyrics I have heard" width="100%"> 
+
 <p align="justify">I went through my playlist once and picked out some songs whose lyrics meant a great deal to me. Most of these lines are very simple, all of it makes it into my list because: Either I liked the whole lyrics of the song or just the part I have mentioned, or I was able to relate to the lines in these lines somehow, or because of a movie or TV series I have watched, and some of these lines reciprocate the way I see the world. So, like I said, the list is just a personal one. :)</p>
 
 <ol>
