@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Preparing for CBSE AISSCE in two months
+title:  Future of higher education
 tags:
 - Education
 - MOOCs
