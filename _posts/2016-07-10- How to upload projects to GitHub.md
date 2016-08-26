@@ -8,6 +8,8 @@ tags:
 - Post
 ---
 
+<img src="http://img11.deviantart.net/1071/i/2011/214/f/3/github_social_coding_backgroun_by_dot_mh-d42o7fq.jpg" alt="How to upload projects to Github" width="100%"> 
+
 <p align="justify">Create a new repository on GitHub. To avoid errors, do not initialize the new repository with README, license, or gitignore files. You can add these files after your project has been pushed to GitHub. Open Terminal (for Mac users) or the command prompt (for Windows and Linux users) and go iniside the folder to be uploaded.</p>
 
 <ol>
