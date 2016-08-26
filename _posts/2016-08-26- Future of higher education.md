@@ -8,6 +8,8 @@ tags:
 - Post
 ---
 
+<img src="http://img.wallpaperfolder.com/f/63D4D7A10D4C/stock-photos-online-higher-education.jpg" alt="Future of higher education" height="auto" max-width="100%"> 
+
 <p align="justify">What will be the model of higher education 10 years from now? I have often wondered about this during the course of my studies. Let's have a look at how it might be 10 years from now. </p>
 
 <ol>
