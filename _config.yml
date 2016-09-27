@@ -11,8 +11,8 @@ port: 3000
 safe: true
 
 
-url: http://amalrkrishna.github.io/
-baseurl: http://amalrkrishna.github.io/
+url: https://amalrkrishna.github.io/
+baseurl: https://amalrkrishna.github.io/
 title: Amal Krishna R
 author: Amal Krishna R
 description: Webpage of Amal Krishna R
