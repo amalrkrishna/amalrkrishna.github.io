@@ -62,4 +62,4 @@ We are in the midst of yet another US Presidential election which is due to take
 
 </ol>
 
-[UpX Academy Source Article] 
+<a href="http://upxacademy.com/2016/10/14/data-analytics-election/" target="_blank">UpX Academy Source Article</a>
