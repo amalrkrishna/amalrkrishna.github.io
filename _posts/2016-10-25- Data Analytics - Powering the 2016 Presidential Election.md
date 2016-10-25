@@ -56,7 +56,7 @@ In 2007, Nate Silver launched Five Thirty Eight. Silver made data analytics supe
 
 John McIntyre and Tom Bevan founded RCP in 2000. They are one of the leading websites which collects a lot of polling data and generates a predictive analytical model for the forecast.
 
-<li><b>Conclusion<b></li>
+<li><b>Conclusion</b></li>
 
 We are in the midst of yet another US Presidential election which is due to take place on 8th November 2016. To sum up, we have seen how highly data analytics is used by election campaigns and how it affects elections as a whole. Additionally, this also opens a whole world of possibilities on how someone can be a part of such a technological field with great impact.
 
