@@ -13,7 +13,7 @@ tags:
 <p align="justify">The best way to predict the future is to study past behavior. This is the underlying idea behind big data analytics. The 2008 Obama election campaign was one of the first to take advantage of data-driven methods in the race to an elected office. The Obama campaign had a data analytics team of 100 people. This shows how deeply data analytics impacts the world. From recommending products to customers on e-commerce websites (i.e. using predictive analytics) to electing the most powerful official of the free world. Big Data Analytics is indeed everywhere. Data analytics has evolved itself to become the brain of every election campaign since the Obama campaign. Data analytics helps the election campaign to understand the voters better and hence adapt to their sentiments. Now let’s find out how data analytics affects the elections and how election campaigns use it.</p>
 
 <ol>
-<li>How Data Analytics affects the election?</li>
+<li><b>How Data Analytics affects the election?</b></li>
 
 <p align="justify">The 2016 race to the White House had data at its center and made itself an unstoppable force. The question here is how it affects the outcome of the election? Positively or Negatively? In other words, does data analytics have the ability to turn election results?
 Social and polling data can affect the voters.</p>
@@ -22,7 +22,7 @@ Social and polling data can affect the voters.</p>
 
 <p align="justify">As a result, I feel that there will be a negative impact on the voter turnout in such situations. Websites like Five Thirty Eight and Real Clear Politics use social, polling data to predict the election results. To emphasize, if they tweak those results in favor of a single candidate, then it can give an altogether different perspective to their millions of followers, who now after knowing the probable outcome may not turn out at the booths to support their candidate. Hence, it is crucial to realize the downside as well.</p>
 
-<li>How election campaigns make use of Data Analytics?
+<li><b>How election campaigns make use of Data Analytics?</b></li>
 
 <p align="justify">There are two sub divisions of extracting data for an election campaign. Firstly, social data and polling data and secondly public data which becomes a part of Big Data. Firstly, this helps the candidate to understand the voters better and design the campaign accordingly. Moreover, this brings more clarity to the election campaign. Both Clinton’s and Trump’s campaigns are relying on technology for reaching out to the voters in the 2016 race to The White House. The Campaign job distribution for both Hillary and Trump Campaign obtained from ValuePengiun is shown below. We can observe from the graph that Data Analytics and the resulting Strategic Operations takes up a huge chunk of the workforce of both the presidential campaigns.</p>
 
