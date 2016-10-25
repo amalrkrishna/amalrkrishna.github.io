@@ -26,7 +26,7 @@ Social and polling data can affect the voters.</p>
 
 <p align="justify">There are two sub divisions of extracting data for an election campaign. Firstly, social data and polling data and secondly public data which becomes a part of Big Data. Firstly, this helps the candidate to understand the voters better and design the campaign accordingly. Moreover, this brings more clarity to the election campaign. Both Clinton’s and Trump’s campaigns are relying on technology for reaching out to the voters in the 2016 race to The White House. The Campaign job distribution for both Hillary and Trump Campaign obtained from ValuePengiun is shown below. We can observe from the graph that Data Analytics and the resulting Strategic Operations takes up a huge chunk of the workforce of both the presidential campaigns.</p>
 
-<img src="https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAhXAAAAJDEyYzhmNjQ2LTFlZTEtNDlkNC1hZTAwLTljYzczMTE0OTNlOA.png" width="100%"> 
+<img src="https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAhXAAAAJDEyYzhmNjQ2LTFlZTEtNDlkNC1hZTAwLTljYzczMTE0OTNlOA.png" width="50%"> 
 <ul>
 <li>Identifying the Swing States</li>
 
@@ -41,7 +41,7 @@ Large amounts of public data, polling data, sentimental analysis of Twitter and 
 Using big data analytics, the election campaign analyzes the demographics of the states where they fall behind their opposition. Offline marketing like billboards and television ads is deployed strategically to target the audience using data analytics. It helps them to understand the states where the campaign needs to improve on the marketing and hence turn the voter sentiments around.
 </ul>
 
-<li>Big Players in the Election Forecast</li>
+<li><b>Big Players in the Election Forecast</b></li>
 
 Now, let’s look at some of the notable players who use data analytics on polling, social and big data for the forecast.
 
