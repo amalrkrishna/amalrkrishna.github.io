@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Data Analytics : Powering 2016 Presidential Election
+title:  Data Analytics
 tags:
 - Data Analytics
 - Big Data
