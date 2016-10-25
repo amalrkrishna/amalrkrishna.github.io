@@ -26,7 +26,7 @@ Social and polling data can affect the voters.</p>
 
 <p align="justify">There are two sub divisions of extracting data for an election campaign. Firstly, social data and polling data and secondly public data which becomes a part of Big Data. Firstly, this helps the candidate to understand the voters better and design the campaign accordingly. Moreover, this brings more clarity to the election campaign. Both Clinton’s and Trump’s campaigns are relying on technology for reaching out to the voters in the 2016 race to The White House. The Campaign job distribution for both Hillary and Trump Campaign obtained from ValuePengiun is shown below. We can observe from the graph that Data Analytics and the resulting Strategic Operations takes up a huge chunk of the workforce of both the presidential campaigns.</p>
 
-<img src="https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAhXAAAAJDEyYzhmNjQ2LTFlZTEtNDlkNC1hZTAwLTljYzczMTE0OTNlOA.png" width="50%"> 
+<img src="https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAhXAAAAJDEyYzhmNjQ2LTFlZTEtNDlkNC1hZTAwLTljYzczMTE0OTNlOA.png" width="100%"> 
 <ul>
 <li><i>Identifying the Swing States</i></li>
 
@@ -34,7 +34,7 @@ A swing state is a state where the two major political parties have similar leve
 
 Large amounts of public data, polling data, sentimental analysis of Twitter and Facebook feeds are used to determine the swing states. In particular, winning the swing states can make a big difference in the electoral votes. These are the best opportunity for a party to gain electoral votes. So, political parties majorly focus on these states while strategizing their election campaign. In the 2016 US Presidential elections the 12 swing states are:- Wisconsin, Minnesota, Nevada, Pennsylvania, New Hampshire, Colorado, Ohio, Iowa, Virginia, Florida, Michigan, and North Carolina. “Tipping-point chance” as described by FiveThirtyEight is the probability that a state will provide the decisive vote in the Electoral College. This is a good indicator of the Swing states.
 
-<img src="https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAkAAAAAJDgxYmU2ODNmLTVkMzMtNDI1Yy05MTlhLWJmZjhhNjU5MTQ0YQ.png" width="100%"> 
+<img src="https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAkAAAAAJDgxYmU2ODNmLTVkMzMtNDI1Yy05MTlhLWJmZjhhNjU5MTQ0YQ.png" width="75%"> 
 
 <li><i>Online and offline marketing</i></li>
 
