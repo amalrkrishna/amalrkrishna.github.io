@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Installation & Configuration of Open vSwitch 2.3.1 in Voyage
+title:  Installation & Configuration of Open vSwitch in Voyage
 tags:
 - Linux
 - Open vSwitch
