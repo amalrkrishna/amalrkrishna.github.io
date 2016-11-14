@@ -10,8 +10,6 @@ tags:
 
 <img src="https://s12.postimg.org/ybdmbrfb1/slider_services2_1500x441.jpg" width="100%"> 
 
-<p align="justify">The best way to predict the future is to study past behavior. This is the underlying idea behind big data analytics. The 2008 Obama election campaign was one of the first to take advantage of data-driven methods in the race to an elected office. The Obama campaign had a data analytics team of 100 people. This shows how deeply data analytics impacts the world. From recommending products to customers on e-commerce websites (i.e. using predictive analytics) to electing the most powerful official of the free world. Big Data Analytics is indeed everywhere. Data analytics has evolved itself to become the brain of every election campaign since the Obama campaign. Data analytics helps the election campaign to understand the voters better and hence adapt to their sentiments. Now let’s find out how data analytics affects the elections and how election campaigns use it.</p>
-
 <ol>
 <li><b>PricewaterhouseCoopers</b></li>
 
