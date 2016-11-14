@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Data Analytic solutions provided by Big consulting firms
+title:  Analytic solutions - PwC, BCG, Deloitte, Mckinsey, EY
 tags:
 - Data Analytics
 - Consulting
