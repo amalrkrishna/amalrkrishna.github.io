@@ -79,6 +79,63 @@ tags:
 <a href="http://www2.deloitte.com/us/en/pages/deloitte-analytics/solutions/" target="_blank">Read More</a>
 
 
+<li><b>Mckinsey</b></li>
+<p align="justify">Mckinsey has divided their Analytics teams across centers.</p>
+
+<ul>
+<li><b>Business Technology</b></li>
+<p align="justify">Helps clients frame their strategic aspirations for big data, map business use cases to technical solutions, design technology architectures and data governance structures, and develop broader organizational capabilities to support analytics across the enterprise.</p>
+
+<li><b>Operations</b></li>
+<p align="justify">Sustained improvement in performance by applying advanced analytics to address challenges across all areas of operation such as supply chain management, manufacturing, procurement and service operations.</p>
 
 
-<a href="http://upxacademy.com/2016/10/14/data-analytics-election/" target="_blank">UpX Academy Source Article</a>
+<li><b>Strategy and Trend Analysis (STAC)</b></li>
+<p align="justify">Helps client make better strategic decisions through a deeper understanding of corporate performance, macro-economic forces and global and local trends.</p>
+
+<li><b>Marketing and Sales (CMSC)</b></li>
+<p align="justify">The Consumer Marketing & Sales Centre helps the client transform their marking and sales by applying advances analysis to generate value creating insights from big data. Social GRP is a tool used by Mckinsey to measure the effectiveness of social media spending by integrating data on reach, relevance and sentiments.</p>
+
+<li><b>Risk Advanced Analytics</b></li>
+<p align="justify">very business involves large amount of investments and it is important to evaluate the risk assessment for those potential investment plans. Mckinsey provides Risk analytics on various sub-divisions such as credit risk modeling, asset and portfolio modeling, comprehensive stress testing, cash flow at risk, liquidity risk modeling, insurance etc.</p>
+</ul>
+
+<a href="http://www.mckinsey.com/business-functions/mckinsey-analytics/how-we-help-clients" target="_blank">Read More</a>
+<a href="http://www.mckinseysolutions.com/solutions.aspx" target="_blank">Read More</a>
+
+
+
+
+<li><b>Ernest & Young</b></li>
+<p align="justify">EY provide Analytics as a Service (AaaS), Functional analytics, Sector analytics to there clients. We will look more into what EY offer on these services.</p>
+
+<ul>
+<li><b>Analytics as a Service (AaaS)</b></li>
+<p align="justify">EY has various analytic models which provide AaaS like EY Synapse which combines market leading and proprietary technologies, advanced analytics capabilities. Some of the AaaS solutions on the EY Synapse platform is:</p>
+<ul>
+<li>EY Pharma Business CASE for Pharmaceutical analytics</li>
+<li>EY Envision to provide information assisted analytics to give information to the health sector regarding cost, quality, patient access etc. </li>
+<li>EY Hex provides retail customer analytics</li>
+<li>EY 3D Spend Analytics delivers insight on cost management analytics.</li>
+<li>They also provide solution for Forensic data analytics through there Forensic Data Analytics and Sciences (FDA&S) which combines the extensive use of big data and statistical and qualitative analysis.</li>
+</ul>
+
+<li><b>Functional Analytics</b></li>
+<p align="justify">FA in EY deals with Finance, Fraud Detection and Prevention, Internal Audit, Risk Management, Tax, Supply chain & Operations. They integrate the AaaS solutions on the EY Synapse platform to various industries.</p>
+
+
+<li><b>Sector Analytics</b></li>
+<p align="justify">SA in EY is again a sub-division which brings the AaaS solutions to Life Sciences, Consumer products & retail, Financial services and Health.</p>
+
+<li><b>Marketing and Sales (CMSC)</b></li>
+<p align="justify">The Consumer Marketing & Sales Centre helps the client transform their marking and sales by applying advances analysis to generate value creating insights from big data. Social GRP is a tool used by Mckinsey to measure the effectiveness of social media spending by integrating data on reach, relevance and sentiments.</p>
+
+</ul>
+
+<a href="http://www.ey.com/GL/en/Issues/EY-synapse-aaas-for-anyone-anywhere-anytime" target="_blank">Read More</a>
+
+<br>
+
+
+
+Report Written for <a href="http://upxacademy.com/" target="_blank">UpX Academy</a>
