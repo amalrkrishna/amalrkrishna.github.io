@@ -21,6 +21,8 @@ tags:
 
 <li>Partially Completed MOOCs</li>
 <ol>
+<li>Cloud Networking (UIUC)</li>
+<li>Software Defined Networking (Princeton)</li>
 <li>Hadoop Platform and Application Framework (UCSD)</li>
 
 </ol>
