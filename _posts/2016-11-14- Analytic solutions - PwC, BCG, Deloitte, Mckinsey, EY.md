@@ -36,7 +36,7 @@ tags:
 
 
 
-<li><b>Boston Consulting Group</b></li>
+<li><b>BCG</b></li>
 <p align="justify">The BCG provides a wide range of consulting solutions in Data analytics. The major ones are described below.</p>
 
 <ul>
@@ -106,7 +106,7 @@ tags:
 
 
 
-<li><b>Ernest & Young</b></li>
+<li><b>EY</b></li>
 <p align="justify">EY provide Analytics as a Service (AaaS), Functional analytics, Sector analytics to there clients. We will look more into what EY offer on these services.</p>
 
 <ul>
