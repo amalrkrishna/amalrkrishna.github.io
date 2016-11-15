@@ -5,7 +5,7 @@ tags:
 - Music
 - Lyrics
 - Songs
-- Post
+- Non-technical
 ---
 
 <img src="http://media.nu.nl/m/m1oxiu0ammly_wd1280.jpg/waar-hotel-california-echt-gaat.jpg" alt="Most beautiful lyrics I have heard" width="100%"> 

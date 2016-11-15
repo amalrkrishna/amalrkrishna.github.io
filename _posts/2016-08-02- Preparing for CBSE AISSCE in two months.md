@@ -5,7 +5,7 @@ tags:
 - CBSE
 - AISSCE
 - Preparation
-- Post
+- Non-technical
 ---
 
 <img src="http://static.dnaindia.com/sites/default/files/styles/half/public/2016/01/03/410734-exams.jpg?itok=y1irbeGx" alt="Preparing for CBSE AISSCE in two months" width="100%"> 

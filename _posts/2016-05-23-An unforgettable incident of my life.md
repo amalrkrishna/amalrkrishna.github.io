@@ -2,10 +2,10 @@
 layout: post
 title:  An unforgettable incident of my life
 tags:
-- Incident
-- Unforgettable
+- Accident
+- Life
 - 15 seconds
-- Post
+- Non-technical
 ---
 
 <img src="https://hd.unsplash.com/photo-1465852170152-6bac978f1769" alt="An unforgettable incident of my life" width="100%"> 

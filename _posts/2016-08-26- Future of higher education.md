@@ -5,7 +5,7 @@ tags:
 - Education
 - MOOCs
 - Learning
-- Post
+- Non-technical
 ---
 
 <img src="http://img.wallpaperfolder.com/f/63D4D7A10D4C/stock-photos-online-higher-education.jpg" alt="Future of higher education" width="100%"> 

@@ -5,7 +5,7 @@ tags:
 - Data Analytics
 - Consulting
 - Big Data
-- Post
+- Technical
 ---
 
 <img src="https://s12.postimg.org/ybdmbrfb1/slider_services2_1500x441.jpg" width="100%"> 

@@ -5,7 +5,7 @@ tags:
 - Linux
 - Voyage
 - ALIX
-- Post
+- Installation
 ---
 
 <img src="https://s12.postimg.io/xcbdvpb59/voyage.png" alt="Installing Voyage 0.9.2 Linux in ALIX" width="100%">

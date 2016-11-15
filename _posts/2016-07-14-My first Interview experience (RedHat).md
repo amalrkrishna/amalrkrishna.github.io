@@ -5,7 +5,7 @@ tags:
 - Interview
 - RedHat
 - QE
-- Post
+- Technical
 ---
 
 <img src="http://www.sagetopia.com/wp-content/uploads/2015/01/redhat-thumb2.png" alt="My first Interview experience (RedHat)" width="100%"> 

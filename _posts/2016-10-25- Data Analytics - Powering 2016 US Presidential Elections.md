@@ -5,7 +5,7 @@ tags:
 - Data Analytics
 - Big Data
 - US Elections
-- Post
+- Technical
 ---
 
 <img src="https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAeJAAAAJDQ2MWUxMzg0LTFiOWUtNDdjZS1hNzA2LTJhMjU1MDdkNTZiMg.jpg" width="100%"> 

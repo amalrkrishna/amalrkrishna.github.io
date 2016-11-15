@@ -5,7 +5,7 @@ tags:
 - Git
 - GitHub
 - Projects
-- Post
+- Repository
 ---
 
 <img src="http://img11.deviantart.net/1071/i/2011/214/f/3/github_social_coding_backgroun_by_dot_mh-d42o7fq.jpg" alt="How to upload projects to Github" width="100%"> 

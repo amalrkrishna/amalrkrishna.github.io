@@ -4,8 +4,8 @@ title:  myMOOCs (Massive Open Online Courses)
 tags:
 - MOOCs
 - Algorithms
-- Data Science
-- Post
+- Stanford
+- Online
 ---
 
 <p align="justify">MOOC, an acronym for Massive Open Online Course, is a form of distance education where many prestigious universities including MIT, Harvard, Stanford, Princeton among others and distinguished professors offer courses via web, usually free and without credit, to anyone anywhere interested. Here is the list of MOOCs that I found helpful for me.</p>

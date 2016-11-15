@@ -5,7 +5,7 @@ tags:
 - Linux
 - OLSR
 - Daemon
-- Post
+- Installation
 ---
 
 <p align="justify">OLSR daemon is an ad-hoc wireless mesh routing daemon.The Installation and Configuration of OLSR daemon 0.6.5.4 can be done using the following steps:</p>

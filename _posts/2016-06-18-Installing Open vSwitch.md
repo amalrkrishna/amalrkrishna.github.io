@@ -5,7 +5,7 @@ tags:
 - Linux
 - Open vSwitch
 - Voyage
-- Post
+- Installation
 ---
 
 <p align="justify">Open vSwitch does not come by default in voyage linux. Therefore, it has to be installed manually by the user. For kernel space implementation of Open vSwitch, the kernel modules needs to be installed prior to the Open vSwitch installation.</p>
