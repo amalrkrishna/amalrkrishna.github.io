@@ -55,6 +55,7 @@ In 2007, Nate Silver launched Five Thirty Eight. Silver made data analytics supe
 <li><i>Real Clear Politics</i></li>
 
 John McIntyre and Tom Bevan founded RCP in 2000. They are one of the leading websites which collects a lot of polling data and generates a predictive analytical model for the forecast.
+</ul>
 
 <li><b>Conclusion</b></li>
 
