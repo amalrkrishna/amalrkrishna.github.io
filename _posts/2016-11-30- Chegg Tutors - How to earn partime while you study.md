@@ -12,11 +12,11 @@ tags:
 
 <p align="justify">I am writing this blog because today marks 6 months of my tutoring in Chegg Tutors (started on May 30th). Now, you will be wondering what's Chegg Tutors right?. Chegg Tutors is an online tutoring website that matches students who need help with online tutors. Students can receive help either on-demand or by scheduling a lesson. InstaEDU was founded in 2011 and launched into public beta in May 2012. On June 3, 2014, Chegg announced that it purchased InstaEDU for $30 million in cash, and that it plans to keep the InstaEDU service active as Chegg Tutors.<br>
 
-Now, I came across Chegg Tutors in my final year at college. Some of my classmates started using the service to tutor students online and they were making quite alot of money. Obviously, this made me interested and I applied to Chegg Tutors.
+Now, I came across Chegg Tutors in my final year at college. Some of my classmates started using the service to tutor students online and they were making quite alot of money from it. Obviously, this made me interested and I applied to Chegg Tutors.
 
 <ol>
 <li><b>Applying to Chegg Tutors</b></li>
-Applying to Chegg Tutors is fairly simple. You can start an application from this <a href="https://www.chegg.com/tutors/" target="_blank">link</a>. You would need an active Facebook account for the application. Once you fill in the basic details, you will be asked to write about your prior teaching experience, your skills in various fields etc. You will be able to select upto 40 skills at the time of the application. You can later change these skills if your application gets accepted.
+Applying to Chegg Tutors is fairly simple. You can start an application from this <a href="https://www.chegg.com/tutors/" target="_blank">link</a>. You would need an active Facebook account for the application. Once you fill in the basic details, you will be asked to write about your prior teaching experience, description about your skills in various fields etc. You will also be able to select upto 40 skills at the time of the application. You can later change these skills if your application gets accepted. You will also need to submit two ID proof. ID proof's can be scanned copy of your University ID, Grade Statement, screenshot of your University profile etc. 
 
 
 <li><b>My 6 Month Chegg Tutor Stats</b></li>
