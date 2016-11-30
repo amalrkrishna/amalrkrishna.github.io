@@ -26,7 +26,7 @@ In the Live lesson, the tutor will teach the students live through the chegg tut
 <li><b>Written lesson:</b></li>
 A written lesson can be send to a specific tutor. Basically the difference is the it is not live. The written lesson will have the time to spend and a deadline mentioned. Each written lesson can go upto a maximum of 180 minutes. If you think the work will take more time than that, you have to ask the student to send multiple written lessons.
 <li><b>Open Written lesson:</b></li>
-This is similar to Written lessons, but the question is scheduled open to any Chegg Tutor in the same topic. So, which ever tutor who claims the question first will get a chance to help the student. Once the question is claimed, the tutor has to submit the answer withing 2*time alloted for the lesson. For example, if it is a 1 hour lesson, the tutor have to answer it in the next 2 hours once claimed. The tutor also have an option to keep claimed every 2 hour interval untill the final deadline expires.
+This is similar to Written lessons, but the question is scheduled open to any Chegg Tutor in the same topic. So, which ever tutor who claims the question first will get a chance to help the student. Once the question is claimed, the tutor has to submit the answer withing 2*time alloted for the lesson. For example, if it is a 1 hour lesson, the tutor have to answer it in the next 2 hours once claimed. The tutor also have an option to keep claimed every 2 hour interval untill the final deadline expires.</p>
 </ul>
 
 <li><b>Chegg Tutors Honor Code</b></li>
