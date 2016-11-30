@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Chegg Tutors - How to earn part-time while you study!
+title:  How to earn part-time while you study - Online tutoring!
 tags:
 - Chegg
 - Tutoring
@@ -20,6 +20,7 @@ I came across Chegg Tutors in my final year at college. Some of my classmates st
 
 <li><b>How it works</b></li>
 <ul>
+<img src="https://s11.postimg.org/p2o2u3eeb/Screenshot_from_2016_11_30_11_12_55.png" width="100%"> 
 <p align="justify">Students can ask a question to initiate a chat with a tutor for determining the deadline and tutoring time, or the student can directly post an open question with pre-defined deadline and tutoring time. The first, will be the questions seen in the opportunities section of the Chegg tutors and the later is the ones seen in the dashboard section.</p>
 <li><b>Live lesson:</b></li>
 <p align="justify">In the Live lesson, the tutor will teach the students live through the chegg tutor interface. Very similar to a Remote Desktop Connection. You will be able to see the students screen and viseversa. It can be just chat conversation, audio, or video call. The sessions starts as soon as both the student and the tutor enters the lesson. At the end of the lesson, the tutors will be paid for the lesson time spend in the room. Tutors also have the option to pause the lesson or discard the lesson from billing if the lesson didn't go well for the student.</p>
@@ -44,6 +45,11 @@ I came across Chegg Tutors in my final year at college. Some of my classmates st
 Any evidence that you have knowingly facilitated cheating will be cause for your immediate removal from the site.
 </ul>
 
+
+<li><b>How you get payed?</b></li>
+<img src="https://s15.postimg.org/4i3ztlykb/Screenshot_from_2016_11_30_11_12_48.png" width="100%"> 
+<p align="justify">For payment process, you need a active PayPal account. For those who don't have one yet, it is fairly easy to create one. You just need to create a new account at PayPal and link your bank account to it. For people in India, make sure your PAN card number is attached to the bank account. Also make sure the profile name you enter in PayPal is same as your name in PAN card. With this your PayPal account will be ready in 2-3 days. Chegg sends tutor earnings on a weekly basis. The payment comes to your PayPal id on every thursday for the tutoring work you did in the previous week. If you withdraw the money from PayPal to your bank account on the same day itself, by Monday or Tuesday the money will be transfered to you bank account.</p>
+
 <li><b>My 6 Month Chegg Tutor Stats</b></li>
 Number of students taught : 72<br>
 Total Earnings : 3177.67$ ~ INR 2,17,973<br>
@@ -52,6 +58,13 @@ Total Tutoring Time : 9008 minutes ~150 hours<br>
 Average earning per student : 44.13$ ~ INR 3,027<br>
 Average Tutoring time per student : 125.11 minutes<br>
 
+Some of the takeaway that I got from this experience is that: 
+<ul>
+<li>You learn more perseverance while teaching students. Sometimes you will have to spend hours explaining the topic to the students. Most of the times, it's fairly easy though.</li>
+<li>I have often wondered why I am learning specific topics while I was in my high school and in college, which seemed as if it had no practical applications in my life. Here, even teaching simple chemistry topics helps you to earn more.</li>
+<li>You keep revising and refreshing what you have learned when you teach. Chegg has certainly helped me to improve my programming skills and Computer Science knowlegde.</li>
+
+</ol>
 
 
 
