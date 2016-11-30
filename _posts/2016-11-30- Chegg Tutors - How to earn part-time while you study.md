@@ -44,7 +44,7 @@ Chegg Tutors does not condone, and will not participate in, academic dishonesty 
 2. Convey that tutoring is not a replacement for students attending class or doing their homework. The tutor's role is to help students understand concepts and develop effective problem-solving approaches.<br>
 
 Any evidence that you have knowingly facilitated cheating will be cause for your immediate removal from the site.
-
+</ul>
 <li><b>My 6 Month Chegg Tutor Stats</b></li>
 Number of students taught : 72<br>
 Total Earnings : 3177.67$ ~ INR 2,17,973<br>
