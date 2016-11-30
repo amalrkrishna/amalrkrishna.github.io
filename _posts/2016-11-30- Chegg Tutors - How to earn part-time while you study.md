@@ -30,9 +30,7 @@ I came across Chegg Tutors in my final year at college. Some of my classmates st
 </ul>
 
 <li><b>Chegg Tutors Honor Code</b></li>
-<p align="justify">It is very important that Students as well as Tutors follows these rules while using Chegg Tutors. The Honor Code is Chegg Tutors's policy on academic integrity. It articulates Chegg Tutors expectations of students and tutors in establishing and maintaining the highest standards in academic work.<br>
-
-Chegg Tutors does not condone, and will not participate in, academic dishonesty -- tutors will not take tests nor complete a graded assignment on your behalf. Tutors may not knowingly help a student cheat, plagiarize, or engage in any action that violates the academic honor code of the class or the school. Good tutoring is more than simply giving out answers to questions. We encourage teaching, helping students understand concepts and developing effective problem-solving approaches. </p>
+<p align="justify">It is very important that Students as well as Tutors follows these rules while using Chegg Tutors. "The Honor Code is Chegg Tutors's policy on academic integrity. It articulates Chegg Tutors expectations of students and tutors in establishing and maintaining the highest standards in academic work. Chegg Tutors does not condone, and will not participate in, academic dishonesty -- tutors will not take tests nor complete a graded assignment on your behalf. Tutors may not knowingly help a student cheat, plagiarize, or engage in any action that violates the academic honor code of the class or the school. Good tutoring is more than simply giving out answers to questions. We encourage teaching, helping students understand concepts and developing effective problem-solving approaches." </p>
 
 <ul>
 <li><b>To Students</b></li>
