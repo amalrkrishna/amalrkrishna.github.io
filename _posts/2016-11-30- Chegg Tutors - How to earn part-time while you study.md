@@ -20,11 +20,12 @@ Applying to Chegg Tutors is fairly simple. You can start an application from thi
 
 <li><b>How it works</b></li>
 <ul>
-<li>Live lesson</li>
+Students can ask a question to initiate a chat with a tutor for determining the deadline and tutoring time, or the student can directly post an open question with pre-defined deadline and tutoring time. The first, will be the questions seen in the opportunities section of the Chegg tutors and the later is the ones seen in the dashboard section.
+<li>Live lesson:</li>
 In the Live lesson, the tutor will teach the students live through the chegg tutor interface. Very similar to a Remote Desktop Connection. You will be able to see the students screen and viseversa. It can be just chat conversation, audio, or video call. The sessions starts as soon as both the student and the tutor enters the lesson. At the end of the lesson, the tutors will be paid for the lesson time spend in the room. Tutors also have the option to pause the lesson or discard the lesson from billing if the lesson didn't go well for the student.
-<li>Written lesson</li>
+<li>Written lesson:</li>
 A written lesson can be send to a specific tutor. Basically the difference is the it is not live. The written lesson will have the time to spend and a deadline mentioned. Each written lesson can go upto a maximum of 180 minutes. If you think the work will take more time than that, you have to ask the student to send multiple written lessons.
-<li>Open Written lesson</li>
+<li>Open Written lesson:</li>
 This is similar to Written lessons, but the question is scheduled open to any Chegg Tutor in the same topic. So, which ever tutor who claims the question first will get a chance to help the student. Once the question is claimed, the tutor has to submit the answer withing 2*time alloted for the lesson. For example, if it is a 1 hour lesson, the tutor have to answer it in the next 2 hours once claimed. The tutor also have an option to keep claimed every 2 hour interval untill the final deadline expires.
 </ul>
 
