@@ -18,6 +18,15 @@ I came across Chegg Tutors in my final year at college. Some of my classmates st
 <li><b>Applying to Chegg Tutors</b></li>
 Applying to Chegg Tutors is fairly simple. You can start an application from this <a href="https://www.chegg.com/tutors/" target="_blank">link</a>. You would need an active Facebook account for the application. Once you fill in the basic details, you will be asked to write about your prior teaching experience, description about your skills in various topics etc. You will also be able to select upto 40 skills at the time of the application. You can later change these skills if your application gets accepted. You will also need to submit two ID proofs. ID proofs can be scanned copy of your University ID, Grade Statement, screenshot of your University profile etc. Make sure you submit your best application, Chegg doesn't allow you to re-submit if you are rejected once. From what I observed, Chegg takes tutors in the fields where there is an existing shortage of tutors like MIPS, Assembly coding etc (this varies at any point of time but MIPS almost always have a shortage of tutors). Whereas, subjects like Math, Computer Science etc might already have saturated number of tutors active. Based on factors like these and your application profile, Chegg will revert back to you in 3-4 days whether you are accepted or rejected.
 
+<li><b>How it works</b></li>
+<ul>
+<li>Live lesson</li>
+In the Live lesson, the tutor will teach the students live through the chegg tutor interface. Very similar to a Remote Desktop Connection. You will be able to see the students screen and viseversa. It can be just chat conversation, audio, or video call. The sessions starts as soon as both the student and the tutor enters the lesson. At the end of the lesson, the tutors will be paid for the lesson time spend in the room. Tutors also have the option to pause the lesson or discard the lesson from billing if the lesson didn't go well for the student.
+<li>Written lesson</li>
+A written lesson can be send to a specific tutor. Basically the difference is the it is not live. The written lesson will have the time to spend and a deadline mentioned. Each written lesson can go upto a maximum of 180 minutes. If you think the work will take more time than that, you have to ask the student to send multiple written lessons.
+<li>Open Written lesson</li>
+This is similar to Written lessons, but the question is scheduled open to any Chegg Tutor in the same topic. So, which ever tutor who claims the question first will get a chance to help the student. Once the question is claimed, the tutor has to submit the answer withing 2*time alloted for the lesson. For example, if it is a 1 hour lesson, the tutor have to answer it in the next 2 hours once claimed. The tutor also have an option to keep claimed every 2 hour interval untill the final deadline expires.
+</ul>
 
 <li><b>My 6 Month Chegg Tutor Stats</b></li>
 Number of students taught : 72<br>
