@@ -48,15 +48,16 @@ Any evidence that you have knowingly facilitated cheating will be cause for your
 
 <li><b>How you get payed?</b></li>
 <img src="https://s15.postimg.org/4i3ztlykb/Screenshot_from_2016_11_30_11_12_48.png" width="100%"> 
-<p align="justify">For payment process, you need a active PayPal account. For those who don't have one yet, it is fairly easy to create one. You just need to create a new account at PayPal and link your bank account to it. For people in India, make sure your PAN card number is attached to the bank account. Also make sure the profile name you enter in PayPal is same as your name in PAN card. With this your PayPal account will be ready in 2-3 days. Chegg sends tutor earnings on a weekly basis. The payment comes to your PayPal id on every thursday for the tutoring work you did in the previous week. If you withdraw the money from PayPal to your bank account on the same day itself, by Monday or Tuesday the money will be transfered to you bank account.</p>
+<p align="justify">For payment process, you need an active PayPal account. For those who don't have one yet, it is fairly easy to create one. You just need to create a new account at PayPal and link your bank account to it. For people in India, make sure your PAN card number is attached to the bank account. Also make sure the profile name you enter in PayPal is same as your name in PAN card. With this your PayPal account will be ready in 2-3 days. Chegg sends tutor earnings on a weekly basis. The payment comes to your PayPal id on every thursday for the tutoring work you did in the previous week. If you withdraw the money from PayPal to your bank account on the same day itself, by Monday or Tuesday the money will be transfered to you bank account.</p>
 
 <li><b>My 6 Month Chegg Tutor Stats</b></li>
 Number of students taught : 72<br>
 Total Earnings : 3177.67$ ~ INR 2,17,973<br>
-Distinct days I worked : ~60 days (45 distinct submission days)<br>
+Distinct days I worked : ~60 days (46 distinct submission days)<br>
 Total Tutoring Time : 9008 minutes ~150 hours<br>
 Average earning per student : 44.13$ ~ INR 3,027<br>
 Average Tutoring time per student : 125.11 minutes<br>
+</ol>
 
 Some of the takeaway that I got from this experience is that: 
 <ul>
@@ -64,7 +65,7 @@ Some of the takeaway that I got from this experience is that:
 <li>I have often wondered why I am learning specific topics while I was in my high school and in college, which seemed as if it had no practical applications in my life. Here, even teaching simple chemistry topics helps you to earn more.</li>
 <li>You keep revising and refreshing what you have learned when you teach. Chegg has certainly helped me to improve my programming skills and Computer Science knowlegde.</li>
 
-</ol>
+
 
 
 
