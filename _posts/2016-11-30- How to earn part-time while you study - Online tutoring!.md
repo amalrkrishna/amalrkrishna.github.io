@@ -8,7 +8,7 @@ tags:
 - Online
 ---
 
-<img src="https://instaedu.desk.com/customer/portal/theme_attachments/20742?cb=1423077496364" width="100%"> 
+<img src="https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAmBAAAAJDcwMDg5NzEzLWQ0NjEtNDhkYS04OTg5LWRiMzUyN2UzYjYzNg.jpg" width="100%"> 
 
 <p align="justify">I am writing this blog because today marks 6 months of my tutoring experience in Chegg Tutors (started on May 30th). Now, you will be wondering what's Chegg Tutors right?. Chegg Tutors is an online tutoring website that matches students who need help with online tutors. Students can receive help either on-demand or by scheduling a lesson. InstaEDU was founded in 2011 and launched into public beta in May 2012. On June 3, 2014, Chegg announced that it purchased InstaEDU for $30 million in cash and that it plans to keep the InstaEDU service active as Chegg Tutors.<br>
 
@@ -60,7 +60,7 @@ Average earning per student : 44.13$ ~ INR 3,027<br>
 Average Tutoring time per student : 125.11 minutes<br>
 </ol>
 
-<p align="justify">I have introduced Chegg Tutors to most of the people I know. I don't work at Chegg in case if you are wondering if that's the reason for this blog. But, I believe this is a great opportunity for students to improve their skills and help other students to learn as well to earn while studying. Some of the takeaways that I got from this experience is that: </p>
+<p align="justify">I have introduced Chegg Tutors to most of the people I know. I don't work at Chegg in case if you are wondering if that's the reason for this blog. But, I believe this is a great opportunity for students to improve their skills and help other students to learn as well to earn while studying. There are other websites such as Coursehero.com etc which also promotes online tutoring, but I find Chegg Tutors to be the most productive for tutors. Some of the takeaways that I got from this experience is that: </p>
 <ul>
 <li>You learn more perseverance while teaching students. Sometimes you will have to spend hours explaining the topic to the students. Most of the times, it's fairly easy, though.</li>
 <li>I have often wondered why I am learning specific topics while I was in my high school and in college, which seemed as if it had no practical applications in my life. Here, even teaching simple chemistry topics helps you to earn more.</li>
