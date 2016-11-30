@@ -21,11 +21,11 @@ I came across Chegg Tutors in my final year at college. Some of my classmates st
 <li><b>How it works</b></li>
 <ul>
 <p align="justify">Students can ask a question to initiate a chat with a tutor for determining the deadline and tutoring time, or the student can directly post an open question with pre-defined deadline and tutoring time. The first, will be the questions seen in the opportunities section of the Chegg tutors and the later is the ones seen in the dashboard section.
-<li>Live lesson:</li>
+<li><b>Live lesson:</b></li>
 In the Live lesson, the tutor will teach the students live through the chegg tutor interface. Very similar to a Remote Desktop Connection. You will be able to see the students screen and viseversa. It can be just chat conversation, audio, or video call. The sessions starts as soon as both the student and the tutor enters the lesson. At the end of the lesson, the tutors will be paid for the lesson time spend in the room. Tutors also have the option to pause the lesson or discard the lesson from billing if the lesson didn't go well for the student.
-<li>Written lesson:</li>
+<li><b>Written lesson:</b></li>
 A written lesson can be send to a specific tutor. Basically the difference is the it is not live. The written lesson will have the time to spend and a deadline mentioned. Each written lesson can go upto a maximum of 180 minutes. If you think the work will take more time than that, you have to ask the student to send multiple written lessons.
-<li>Open Written lesson:</li>
+<li><b>Open Written lesson:</b></li>
 This is similar to Written lessons, but the question is scheduled open to any Chegg Tutor in the same topic. So, which ever tutor who claims the question first will get a chance to help the student. Once the question is claimed, the tutor has to submit the answer withing 2*time alloted for the lesson. For example, if it is a 1 hour lesson, the tutor have to answer it in the next 2 hours once claimed. The tutor also have an option to keep claimed every 2 hour interval untill the final deadline expires.
 </ul>
 
@@ -35,9 +35,9 @@ This is similar to Written lessons, but the question is scheduled open to any Ch
 Chegg Tutors does not condone, and will not participate in, academic dishonesty -- tutors will not take tests nor complete a graded assignment on your behalf. Tutors may not knowingly help a student cheat, plagiarize, or engage in any action that violates the academic honor code of the class or the school. Good tutoring is more than simply giving out answers to questions. We encourage teaching, helping students understand concepts and developing effective problem-solving approaches. </p>
 
 <ul>
-<li>To Students</li>
+<li><b>To Students</b></li>
 <p align="justify">The Chegg Tutors team understands the pressures and time constraints school creates. However, the risk you take by violating your school's code of academic integrity is not worth the reward. Copying solutions or requesting unexplained final answers promotes completion without comprehension, which is something we don't support on this site.</p>
-<li>To Tutors</li>
+<li><b>To Tutors</b></li>
 
 <p align="justify">At Chegg Tutors, we give you great responsibility in handling yourself with students using our service. As current and former students yourselves, we trust that you understand the principles of academic integrity, but would like to remind you that you're required to uphold the following practices:<br></p>
 1. Strictly adhere to the above Chegg Tutors Honor Code in all tutoring interactions.<br>
@@ -45,6 +45,7 @@ Chegg Tutors does not condone, and will not participate in, academic dishonesty 
 
 Any evidence that you have knowingly facilitated cheating will be cause for your immediate removal from the site.
 </ul>
+
 <li><b>My 6 Month Chegg Tutor Stats</b></li>
 Number of students taught : 72<br>
 Total Earnings : 3177.67$ ~ INR 2,17,973<br>
