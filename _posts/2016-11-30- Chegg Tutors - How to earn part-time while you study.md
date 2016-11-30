@@ -28,6 +28,8 @@ I came across Chegg Tutors in my final year at college. Some of my classmates st
 <p align="justify">A written lesson can be send to a specific tutor. Basically the difference is the it is not live. The written lesson will have the time to spend and a deadline mentioned. Each written lesson can go upto a maximum of 180 minutes. If you think the work will take more time than that, you have to ask the student to send multiple written lessons.</p>
 <li><b>Open Written lesson:</b></li>
 <p align="justify">This is similar to Written lessons, but the question is scheduled open to any Chegg Tutor in the same topic. So, which ever tutor who claims the question first will get a chance to help the student. Once the question is claimed, the tutor has to submit the answer withing 2*time alloted for the lesson. For example, if it is a 1 hour lesson, the tutor have to answer it in the next 2 hours once claimed. The tutor also have an option to keep claimed every 2 hour interval untill the final deadline expires.</p>
+
+<p align="justify">Tutors have to make sure that they provide students with proper lessons. The review system in Chegg allows students to review the tutor on the lessons he has taken. Tutors have to keep a high positive review status for this matter and also if you consistently provide wrong lessons, Chegg has the authority to remove you from Chegg Tutors.</p>
 </ul>
 
 <li><b>Chegg Tutors Honor Code</b></li>
@@ -45,7 +47,6 @@ I came across Chegg Tutors in my final year at college. Some of my classmates st
 Any evidence that you have knowingly facilitated cheating will be cause for your immediate removal from the site.
 </ul>
 
-
 <li><b>How you get payed?</b></li>
 <img src="https://s15.postimg.org/4i3ztlykb/Screenshot_from_2016_11_30_11_12_48.png" width="100%"> 
 <p align="justify">For payment process, you need an active PayPal account. For those who don't have one yet, it is fairly easy to create one. You just need to create a new account at PayPal and link your bank account to it. For people in India, make sure your PAN card number is attached to the bank account. Also make sure the profile name you enter in PayPal is same as your name in PAN card. With this your PayPal account will be ready in 2-3 days. Chegg sends tutor earnings on a weekly basis. The payment comes to your PayPal id on every thursday for the tutoring work you did in the previous week. If you withdraw the money from PayPal to your bank account on the same day itself, by Monday or Tuesday the money will be transfered to you bank account.</p>
@@ -59,7 +60,7 @@ Average earning per student : 44.13$ ~ INR 3,027<br>
 Average Tutoring time per student : 125.11 minutes<br>
 </ol>
 
-Some of the takeaway that I got from this experience is that: 
+<p align="justify">I have introduced Chegg Tutors to most of the people I know. I don't work at Chegg incase if you are wondering if that's the reason for this blog, but I believe this is a great opportunity for students to improve there skills and help other students to learn. Some of the takeaway that I got from this experience is that: </p>
 <ul>
 <li>You learn more perseverance while teaching students. Sometimes you will have to spend hours explaining the topic to the students. Most of the times, it's fairly easy though.</li>
 <li>I have often wondered why I am learning specific topics while I was in my high school and in college, which seemed as if it had no practical applications in my life. Here, even teaching simple chemistry topics helps you to earn more.</li>
