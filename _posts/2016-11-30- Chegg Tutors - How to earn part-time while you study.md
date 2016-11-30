@@ -60,7 +60,7 @@ Average earning per student : 44.13$ ~ INR 3,027<br>
 Average Tutoring time per student : 125.11 minutes<br>
 </ol>
 
-<p align="justify">I have introduced Chegg Tutors to most of the people I know. I don't work at Chegg incase if you are wondering if that's the reason for this blog, but I believe this is a great opportunity for students to improve there skills and help other students to learn. Some of the takeaway that I got from this experience is that: </p>
+<p align="justify">I have introduced Chegg Tutors to most of the people I know. I don't work at Chegg incase if you are wondering if that's the reason for this blog. But, I believe this is a great opportunity for students to improve there skills and help other students to learn as well to earn while studying. Some of the takeaway that I got from this experience is that: </p>
 <ul>
 <li>You learn more perseverance while teaching students. Sometimes you will have to spend hours explaining the topic to the students. Most of the times, it's fairly easy though.</li>
 <li>I have often wondered why I am learning specific topics while I was in my high school and in college, which seemed as if it had no practical applications in my life. Here, even teaching simple chemistry topics helps you to earn more.</li>
