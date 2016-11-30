@@ -8,7 +8,7 @@ tags:
 - Online
 ---
 
-<img src="https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAmBAAAAJDcwMDg5NzEzLWQ0NjEtNDhkYS04OTg5LWRiMzUyN2UzYjYzNg.jpg" width="100%"> 
+<img src="https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAd5AAAAJGY1MDQzMDIzLWZmNmUtNDI5ZS1hMGMxLWJkMGY2ZTQyNmQ1OA.jpg" width="100%"> 
 
 <p align="justify">I am writing this blog because today marks 6 months of my tutoring experience in Chegg Tutors (started on May 30th). Now, you will be wondering what's Chegg Tutors right?. Chegg Tutors is an online tutoring website that matches students who need help with online tutors. Students can receive help either on-demand or by scheduling a lesson. InstaEDU was founded in 2011 and launched into public beta in May 2012. On June 3, 2014, Chegg announced that it purchased InstaEDU for $30 million in cash and that it plans to keep the InstaEDU service active as Chegg Tutors.<br>
 
