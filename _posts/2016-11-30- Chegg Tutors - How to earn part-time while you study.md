@@ -20,12 +20,12 @@ Applying to Chegg Tutors is fairly simple. You can start an application from thi
 
 
 <li><b>My 6 Month Chegg Tutor Stats</b></li>
-Number of students taught : 70<br>
-Total Earnings : 3137.67$ ~ INR 2,15,323<br>
+Number of students taught : 72<br>
+Total Earnings : 3177.67$ ~ INR 2,17,973<br>
 Distinct days I worked : ~60 days (45 distinct submission days)<br>
-Total Tutoring Time : 8888 minutes ~150 hours<br>
-Average earning per student : 44.82$ ~ INR 3,075<br>
-Average Tutoring time per student : 126.97 minutes<br>
+Total Tutoring Time : 9008 minutes ~150 hours<br>
+Average earning per student : 44.13$ ~ INR 3,027<br>
+Average Tutoring time per student : 125.11 minutes<br>
 
 
 
