@@ -35,11 +35,14 @@ Download the zip file (MD5 checksum is eaed376534b4b5efa464214d9838a139) provide
 </ul>
 Click <a href="https://www.hackerrank.com/contests/machine-learning-codesprint/challenges/hackerrank-predict-email-opens" target="_blank">here</a> for the complete description of the problem statement and attribute details.</p>
 
-<ol>
-<li>Installing Dependencies</li>
-
 {% highlight css %}
-$ apt-get install python-all libc-dev perl libtool kernel-package libssl-dev
+library(utils)
+library(data.table)
 {% endhighlight %}
 
-</ol> 
+
+{% highlight css %}
+train <- fread('training_dataset.csv')
+test <- fread('test_dataset.csv')
+{% endhighlight %}
+
