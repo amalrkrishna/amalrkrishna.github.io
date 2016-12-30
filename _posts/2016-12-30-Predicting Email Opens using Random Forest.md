@@ -38,7 +38,7 @@ Click <a href="https://www.hackerrank.com/contests/machine-learning-codesprint/c
 
 <b>Solution to Predicting Email Opens Challenge</b><br>
 
-<p align="justify">Initially I started to code in Python, but later shifted to R as I wanted to get to used to better R programming and myself did not want to limit to Python for predictive analytics.</p><br>
+<p align="justify">Initially I started to code in Python, but later shifted to R as I wanted to get to used to better R programming and myself did not want to limit to Python for predictive analytics. I atempted this contest when I was still a novice in data analytics, with further experience you can easily improve this model.</p><br>
 
 Importing the libraries:<br>
 {% highlight css %}
@@ -55,13 +55,68 @@ test <- fread('test_dataset.csv')
 Training Dataset Quality:<br>
 <p align="justify">The data size was enough to learn the model and can be loaded fully into single machine. There are many features which has no role in deciding the outcome of model like feature 'mail_id', 'sent_time' etc. There are also many features which are only on training data and not in test data given like 'click_time' , 'clicked', 'open_time', 'unsubscribe_time' etc. which have to removed from train data. Dataset was very sparse as most of the values in features like count of submission on 1 days and other features on small no of days were zero. Many features in dataset contain missing values like 'hacker_timezone', 'last_online', 'mail_type', 'mail_category'.</p><br>
 
-Errors in Training dataset:<br>
+Data Preprocessing:<br>
+<p align="justify">Removal of unwanted feature: Remove features from training data which are not in test data. Some feature like 'mail_id' was having no effect as from each type half of their mail sent are read and 'sent_time' was also not having any affect. Conversion of Categorical features: Feaature like 'opened' having True /False are replaced by 1/0 and like 'mail_type' and 'mail_category' by their respective number.</p><br>
+
+{% highlight css %}
+target <- train$opened
+target[target=='false'] <- 0
+target[target=='true'] <- 1
+target <- as.numeric(target)
+train$opened<-target
+test$opened <- "NA"
+
+train[,c("click_time","open_time","clicked","unsubscribe_time","unsubscribed"):=NULL]
+total<- rbind(train, test)
+{% endhighlight %}
+
+Errors in Training dataset and Missing value:<br>
 <p align="justify">Many features in dataset contain missing values like 'hacker_timezone', 'last_online', 'mail_type', 'mail_category' so they have to replaced by some standard statistical measure like mode, median or mean.</p><br>
 
-Data Preprocessing:<br>
-<p align="justify">Removal of unwanted feature: Remove features from training data which are not in test data. Some feature like 'mail_id' was having no effect as from each type half of their mail sent are read and 'sent_time' was also not having any affect.
-Conversion of Categorical features:   Feaature like 'opened' having True /False are replaced by 1/0 and like 'mail_type' and 'mail_category' by their respective number.</p><br>
+{% highlight css %}
+Mode <- function(x) {
+  ux <- x[!is.na(x)]
+  ux[which.max(tabulate(match(x, ux)))]
+}
 
-Missing value: <br>
-<p align="justify">There are many feature having missing values like for 'mail_type' we replaced it by its mode (categorical data) which was 'mail_type1' and 'mail_category' mode was 'mail_category18' , for 'hacker_time_zone' and 'last_online' we raplaced it by median.
-Feature construction: The features like related to submission count , notification count and contest count are sapase so their value are replaced by their weighted average like 'submissions_count_master_1_days'/1 +'submissions_count_master_7_days'/7  and so on....for other features of this type . There was a very informative feature like whether a user has opened any mail or not and fraction of opened mail to total mail sent.</p>
+Mean <- function(x) {
+  if (all(is.na(x))){
+    return(NA)
+  }
+  else{
+    x<-as.numeric(x)
+    ux <- x[!is.na(x)]
+    return(mean(ux))
+  }
+}
+{% endhighlight %}
+
+Feature construction:<br>
+<p align="justify">One huge uplift to the score was when I constructed one feature on average score 'opened_by' grouped by user. Merged train and test in one and take the mean over each user. Then we will split them up again.<br></p>
+
+{% highlight css %}
+total[ ,c("group_by_id_mean"):= Mean(opened), by = c("user_id")]
+train <- total[1:nrow(train), ]
+test <- total[-c(1:nrow(train)), ]
+{% endhighlight %}
+
+{% highlight css %}
+train$hacker_confirmation <- as.integer(as.logical(train$hacker_confirmation))
+test$hacker_confirmation <- as.integer(as.logical(test$hacker_confirmation))
+{% endhighlight %}
+
+Model Fitting and Prediction:<br>
+{% highlight css %}
+library(randomForest)
+modelFit <- randomForest(as.factor(opened) ~ group_by_id_mean + sent_time + last_online + hacker_created_at + contest_login_count + contest_login_count_1_days + contest_login_count_7_days + contest_login_count_30_days + contest_participation_count + contest_participation_count_1_days + contest_participation_count_7_days + contest_participation_count_30_days + submissions_count_contest + hacker_confirmation,
+                         data=train, 
+                         ntree=10, 
+                         mtry=5, 
+                         importance=TRUE, na.action=na.roughfix)
+model_pred <- predict(modelFit, test)
+{% endhighlight %}
+
+Writing to file:<br>
+{% highlight css %}
+write.csv(model_pred, file = "predR.csv")
+{% endhighlight %}
