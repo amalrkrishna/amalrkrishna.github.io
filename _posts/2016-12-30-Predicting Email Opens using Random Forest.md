@@ -101,6 +101,7 @@ test <- total[-c(1:nrow(train)), ]
 train$hacker_confirmation <- as.integer(as.logical(train$hacker_confirmation))
 test$hacker_confirmation <- as.integer(as.logical(test$hacker_confirmation))
 {% endhighlight %}
+</ul>
 
 <b>Model Fitting and Prediction:</b>
 <p align="justify">After construction I applied Random Forest Classifer for Model fitting. I have also used other classifiers like Logistic Regression and AdaBoost Classifer among which Random Forest was giving best result and I have tuned random forest using its best parameters like 'ntree'=10 etc. 
