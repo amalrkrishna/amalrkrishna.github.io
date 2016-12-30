@@ -114,7 +114,7 @@ modelFit <- randomForest(as.factor(opened) ~ group_by_id_mean + sent_time + last
 model_pred <- predict(modelFit, test)
 {% endhighlight %}
 
-<b>Writing to file:</b>
+<b>Writing to file:</b><br>
 Writing the Model prediction to a csv file using write.csv.
 {% highlight css %}
 write.csv(model_pred, file = "predR.csv")
