@@ -78,7 +78,6 @@ Mode <- function(x) {
   ux <- x[!is.na(x)]
   ux[which.max(tabulate(match(x, ux)))]
 }
-
 Mean <- function(x) {
   if (all(is.na(x))){
     return(NA)
