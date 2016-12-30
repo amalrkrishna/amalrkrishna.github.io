@@ -129,4 +129,4 @@ write.csv(model_pred, file = "predR.csv")
 
 
 
-In conclusion, I found that this model can be improved by using XGBoost model. Doing further feature extraction like splitting 'sent_time' into date, time etc with crossvalidation on folds would give you better results. Nevertheless, a simple Random Forest is good way to start.
+In conclusion, I found that this model can be improved by using XGBoost model. Doing further feature extraction like splitting 'sent_time' into date, time etc plus crossvalidation on folds would give you better results. Nevertheless, a simple Random Forest is good way to start.
