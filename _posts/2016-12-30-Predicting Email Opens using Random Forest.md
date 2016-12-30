@@ -123,4 +123,10 @@ Writing the Model prediction to a csv file using write.csv.
 write.csv(model_pred, file = "predR.csv")
 {% endhighlight %}
 
+<img src="https://s23.postimg.org/ma43p22tn/Pics_Art_12_31_12_13_51.jpg" width="100%"> 
+
+<img src="https://s27.postimg.org/fghsa6axf/Pics_Art_12_31_12_14_24.jpg" width="100%"> 
+
+
+
 In conclusion, I found that this model can be improved by using XGBoost model. Doing further feature extraction like splitting 'sent_time' into date, time etc with crossvalidation on folds would give you better results. Nevertheless, a simple Random Forest is good way to start.
