@@ -107,7 +107,7 @@ test$hacker_confirmation <- as.integer(as.logical(test$hacker_confirmation))
 </ul>
 
 <b>Model Fitting and Prediction:</b>
-<p align="justify">After construction I applied Random Forest Classifer for Model fitting. I have also used other classifiers like Logistic Regression and AdaBoost Classifer among which Random Forest was giving best result and I have tuned random forest using its best parameters like 'ntree'=10 etc. 
+<p align="justify">After construction I applied Random Forest Classifer for Model fitting. I have also used other classifiers like Logistic Regression and AdaBoost Classifer among which Random Forest was giving best result and I have tuned random forest using its best parameters like 'ntree'=10 etc.</p> 
 {% highlight css %}
 modelFit <- randomForest(as.factor(opened) ~ group_by_id_mean + sent_time + last_online + hacker_created_at + contest_login_count + contest_login_count_1_days + contest_login_count_7_days + contest_login_count_30_days + contest_participation_count + contest_participation_count_1_days + contest_participation_count_7_days + contest_participation_count_30_days + submissions_count_contest + hacker_confirmation,
                          data=train, 
@@ -127,6 +127,4 @@ write.csv(model_pred, file = "predR.csv")
 
 <img src="https://s27.postimg.org/fghsa6axf/Pics_Art_12_31_12_14_24.jpg" width="100%"> 
 
-
-
-In conclusion, I found that this model can be improved by using XGBoost model. Doing further feature extraction like splitting 'sent_time' into date, time etc plus crossvalidation on folds would give you better results. Nevertheless, a simple Random Forest is good way to start.
+<p align="justify">In conclusion, I found that this model can be improved by using XGBoost model. Doing further feature extraction like splitting 'sent_time' into date, time etc plus crossvalidation on folds would give you better results. Nevertheless, a simple Random Forest is good way to start.</p>
