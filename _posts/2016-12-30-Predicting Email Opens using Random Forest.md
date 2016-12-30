@@ -57,9 +57,9 @@ test <- fread('test_dataset.csv')
 
 <b>Data Preprocessing:</b><br>
 <ul>
-<li>Removal of unwanted feature:</li>
-<p align="justify">Remove features from training data which are not in test data. Some feature like 'mail_id' was having no effect as from each type half of their mail sent are read and 'sent_time' was also not having any affect. Conversion of Categorical features: Feaature like 'opened' having True /False are replaced by 1/0 and like 'mail_type' and 'mail_category' by their respective number.</p>
 
+<li>Conversion of Categorical features:</li> 
+<p align="justify">Features like 'opened' having True /False are replaced by 1/0 and like 'mail_type' and 'mail_category' by their respective number.</p>
 {% highlight css %}
 target <- train$opened
 target[target=='false'] <- 0
@@ -67,14 +67,17 @@ target[target=='true'] <- 1
 target <- as.numeric(target)
 train$opened<-target
 test$opened <- "NA"
+{% endhighlight %}
 
+<li>Removal of unwanted feature:</li>
+<p align="justify">Remove features from training data which are not in test data like click_time", "open_time", "clicked", "unsubscribe_time", "unsubscribed". Later you will be able to see that we will feed only positive features to the training model.</p>
+{% highlight css %}
 train[,c("click_time","open_time","clicked","unsubscribe_time","unsubscribed"):=NULL]
 total<- rbind(train, test)
 {% endhighlight %}
 
 <li>Errors in Training dataset and Missing value:</li>
 <p align="justify">Many features in dataset contain missing values like 'hacker_timezone', 'last_online', 'mail_type', 'mail_category' so they have to replaced by some standard statistical measure like mode, median or mean.</p>
-
 {% highlight css %}
 Mode <- function(x) {
   ux <- x[!is.na(x)]
