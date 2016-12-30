@@ -11,7 +11,9 @@ tags:
 <img src="https://s27.postimg.org/je93ph6ar/Screenshot_from_2016_12_30_22_24_43.png" width="100%"> 
 
 <p align="justify">This is a documentation for Predicting Email Opens question of the Machine Learning Codesprint Competition conducted by HackerRank. <br>
-<b>The problem statement is as follows:</b><br>
+
+<ul>
+<li><b>The problem statement is as follows:</b></li><br>
 
 We will provide you with metadata for emails sent to HackerRank users over a certain period of time. This metadata contains specific information about:
 <ul>
@@ -22,7 +24,7 @@ We will provide you with metadata for emails sent to HackerRank users over a cer
 
 Given the metadata for additional future emails, you must predict whether or not each user will open an email.<br>
 
-<b>Dataset details:</b><br>
+<li><b>Dataset details:</b></li><br>
 
 Download the zip file (MD5 checksum is eaed376534b4b5efa464214d9838a139) provided <a href="https://www.hackerrank.com/external_redirect?to=https://s3.amazonaws.com/hr-testcases-us-east-1/24184/assets/hackerrank-predict-email-opens-dataset.zip" target="_blank">here</a>. The zip file contains files named training_dataset.csv, test_dataset.csv, and attributes.pdf. The files are organized as follows:<br>
 <ul>
@@ -31,6 +33,7 @@ Download the zip file (MD5 checksum is eaed376534b4b5efa464214d9838a139) provide
 <li>test_dataset.csv: This file contains the test dataset. All fields relevant to the user's reaction to the email are missing in this dataset. You must predict the value of the opened attribute for each email.</li>
 
 <li>attributes.pdf: This file contains definitions for all the attributes given in the dataset.</li>
+</ul>
 </ul>
 Click <a href="https://www.hackerrank.com/contests/machine-learning-codesprint/challenges/hackerrank-predict-email-opens" target="_blank">here</a> for the complete description of the problem statement and attribute details.</p><br>
 
