@@ -10,7 +10,7 @@ tags:
 
 <img src="https://s27.postimg.org/a8v4rjunn/Screenshot_from_2016_12_30_22_24_43.png" width="100%"> 
 
-<p align="justify">This is a documentation for Predicting Email Opens challenge of the Machine Learning Codesprint Competition conducted by HackerRank. <br>
+<p align="justify">This is a documentation for Predicting Email Opens challenge of the Machine Learning Codesprint Competition conducted by HackerRank.<br>
 
 <ul>
 <li><b>The problem statement is as follows:</b></li>
@@ -31,7 +31,7 @@ Given the metadata for additional future emails, you must predict whether or not
 <li>attributes.pdf: This file contains definitions for all the attributes given in the dataset.</li>
 </ul>
 </ul>
-Click <a href="https://www.hackerrank.com/contests/machine-learning-codesprint/challenges/hackerrank-predict-email-opens" target="_blank">here</a> for the complete description of the problem statement and attribute details.</p><br>
+From this, we can conclude that this is a Classification problem. Also, click <a href="https://www.hackerrank.com/contests/machine-learning-codesprint/challenges/hackerrank-predict-email-opens" target="_blank">here</a> for the complete description of the problem statement and attribute details.</p><br>
 
 
 <b>Solution to Predicting Email Opens Challenge</b><br>
