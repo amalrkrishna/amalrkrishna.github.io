@@ -53,7 +53,7 @@ test <- fread('test_dataset.csv')
 {% endhighlight %}
 
 <b>Training Dataset Quality:</b><br>
-<p align="justify">The data size was enough to learn the model and can be loaded fully into single machine. There are many features which has no role in deciding the outcome of model like feature 'mail_id', 'sent_time' etc. There are also many features which are only on training data and not in test data given like 'click_time' , 'clicked', 'open_time', 'unsubscribe_time' etc. which have to removed from train data. Dataset was very sparse as most of the values in features like count of submission on 1 days and other features on small no of days were zero. Many features in dataset contain missing values like 'hacker_timezone', 'last_online', 'mail_type', 'mail_category'.</p><br>
+<p align="justify">The data size was enough to learn the model and can be loaded fully into single machine. There are many features which has no role in deciding the outcome of model like feature 'mail_id', 'sent_time' etc. There are also many features which are only on training data and not in test data given like 'click_time' , 'clicked', 'open_time', 'unsubscribe_time' etc. which have to removed from train data. Dataset was very sparse as most of the values in features like count of submission on 1 days and other features on small no of days were zero. Many features in dataset contain missing values like 'hacker_timezone', 'last_online', 'mail_type', 'mail_category'.</p>
 
 <b>Data Preprocessing:</b><br>
 <ul>
@@ -122,3 +122,5 @@ Writing the Model prediction to a csv file using write.csv.
 {% highlight css %}
 write.csv(model_pred, file = "predR.csv")
 {% endhighlight %}
+
+In conclusion, I found that this model can be improved by using XGBoost model. Doing further feature extraction like splitting 'sent_time' into date, time etc with crossvalidation on folds would give you better results. Nevertheless, a simple Random Forest is good way to start.
