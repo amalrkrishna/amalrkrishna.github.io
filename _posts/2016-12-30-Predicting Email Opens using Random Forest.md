@@ -8,6 +8,8 @@ tags:
 - Classification
 ---
 
+<img src="https://s27.postimg.org/je93ph6ar/Screenshot_from_2016_12_30_22_24_43.png" width="100%"> 
+
 <p align="justify">This is a documentation for Predicting Email Opens question of the Machine Learning Codesprint Competition conducted by HackerRank. <br><br>
 
 <i>The problem statement is as follows:</i><br>
