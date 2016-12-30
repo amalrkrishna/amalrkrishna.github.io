@@ -37,7 +37,7 @@ Click <a href="https://www.hackerrank.com/contests/machine-learning-codesprint/c
 <b>Solution to Predicting Email Opens Challenge</b><br>
 <p align="justify">Initially I started to code in Python, but later shifted to R as I wanted to imporve my R programming skills. Also I did not want to limit to Python for predictive analytics. I attempted this contest when I was still a novice in data analytics couple of months back, with further experience you can easily improve this model.</p>
 
-<b>Importing the libraries:</b>
+<b>Importing the libraries:</b><br>
 Here we import the necessary libraries. We use data.tables library which is similar to scikit-learn library in Python.
 {% highlight css %}
 library(utils)
@@ -45,17 +45,17 @@ library(data.table)
 library(randomForest)
 {% endhighlight %}
 
-<b>Reading the data:</b>
+<b>Reading the data:</b><br>
 Read training and test data from the csv files using fread.
 {% highlight css %}
 train <- fread('training_dataset.csv')
 test <- fread('test_dataset.csv')
 {% endhighlight %}
 
-<b>Training Dataset Quality:</b>
+<b>Training Dataset Quality:</b><br>
 <p align="justify">The data size was enough to learn the model and can be loaded fully into single machine. There are many features which has no role in deciding the outcome of model like feature 'mail_id', 'sent_time' etc. There are also many features which are only on training data and not in test data given like 'click_time' , 'clicked', 'open_time', 'unsubscribe_time' etc. which have to removed from train data. Dataset was very sparse as most of the values in features like count of submission on 1 days and other features on small no of days were zero. Many features in dataset contain missing values like 'hacker_timezone', 'last_online', 'mail_type', 'mail_category'.</p><br>
 
-<b>Data Preprocessing:</b>
+<b>Data Preprocessing:</b><br>
 <p align="justify">Removal of unwanted feature: Remove features from training data which are not in test data. Some feature like 'mail_id' was having no effect as from each type half of their mail sent are read and 'sent_time' was also not having any affect. Conversion of Categorical features: Feaature like 'opened' having True /False are replaced by 1/0 and like 'mail_type' and 'mail_category' by their respective number.</p>
 
 {% highlight css %}
