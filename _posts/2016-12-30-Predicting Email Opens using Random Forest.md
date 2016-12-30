@@ -10,9 +10,8 @@ tags:
 
 <img src="https://s27.postimg.org/je93ph6ar/Screenshot_from_2016_12_30_22_24_43.png" width="100%"> 
 
-<p align="justify">This is a documentation for Predicting Email Opens question of the Machine Learning Codesprint Competition conducted by HackerRank. <br><br>
-
-<i>The problem statement is as follows:</i><br>
+<p align="justify">This is a documentation for Predicting Email Opens question of the Machine Learning Codesprint Competition conducted by HackerRank. <br>
+<b>The problem statement is as follows:</b><br>
 
 We will provide you with metadata for emails sent to HackerRank users over a certain period of time. This metadata contains specific information about:
 <ul>
@@ -21,9 +20,9 @@ We will provide you with metadata for emails sent to HackerRank users over a cer
 <li>The user's reaction to the email, including (among other things) whether or not the user opened the email.</li>
 </ul>
 
-Given the metadata for additional future emails, you must predict whether or not each user will open an email.<br><br>
+Given the metadata for additional future emails, you must predict whether or not each user will open an email.<br>
 
-<i>Dataset details:</i><br>
+<b>Dataset details:</b><br>
 
 Download the zip file (MD5 checksum is eaed376534b4b5efa464214d9838a139) provided <a href="https://www.hackerrank.com/external_redirect?to=https://s3.amazonaws.com/hr-testcases-us-east-1/24184/assets/hackerrank-predict-email-opens-dataset.zip" target="_blank">here</a>. The zip file contains files named training_dataset.csv, test_dataset.csv, and attributes.pdf. The files are organized as follows:<br>
 <ul>
