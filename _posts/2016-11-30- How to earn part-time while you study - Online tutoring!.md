@@ -56,8 +56,17 @@ Number of students taught : 72<br>
 Total Earnings : 3177.67$ ~ INR 2,17,973<br>
 Distinct days I worked : ~60 days (46 distinct submission days)<br>
 Total Tutoring Time : 9008 minutes ~150 hours<br>
-Average earning per student : 44.13$ ~ INR 3,027<br>
-Average Tutoring time per student : 125.11 minutes<br>
+Average earning per student : ~44$ ~ INR 3,000<br>
+Average Tutoring time per student : 125 minutes<br>
+</ol>
+
+<li><b>Stats till December 31st Chegg Tutor [Updated]</b></li>
+Number of students taught : 105<br>
+Total Earnings : 4502.67$ ~ INR 3,06,537<br>
+Distinct days I worked : ~75 days (62 distinct submission days)<br>
+Total Tutoring Time : 12008 minutes ~200 hours<br>
+Average earning per student : 43$ ~ INR 3,000<br>
+Average Tutoring time per student : 115 minutes<br>
 </ol>
 
 <p align="justify">I have introduced Chegg Tutors to most of the people I know. I don't work at Chegg in case if you are wondering if that's the reason for this blog. But, I believe this is a great opportunity for students to improve their skills and help other students to learn as well to earn while studying. There are other websites such as Coursehero.com etc which also promotes online tutoring, but I find Chegg Tutors to be the most productive for tutors. Some of the takeaways that I got from this experience is that: </p>
