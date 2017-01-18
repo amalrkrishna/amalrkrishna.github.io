@@ -58,7 +58,7 @@ Distinct days I worked : ~60 days (46 distinct submission days)<br>
 Total Tutoring Time : 9008 minutes ~150 hours<br>
 Average earning per student : ~44$ ~ INR 3,000<br>
 Average Tutoring time per student : 125 minutes<br>
-</ol>
+
 
 <li><b>Stats till December 31st Chegg Tutor [Updated]</b></li>
 Number of students taught : 105<br>
