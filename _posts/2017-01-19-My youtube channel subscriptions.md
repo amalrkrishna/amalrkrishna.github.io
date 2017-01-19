@@ -15,13 +15,13 @@ tags:
 Most people would know these companies. All are Technology based companies, as I am more inclined to the same field.
 <ol>
 <li><a href="https://www.youtube.com/user/Apple/" target="_blank">Apple</a></li>
-<li><a href="https://www.youtube.com/user/TeslaMotors/" target="_blank">Tesla</a></li>/a></li>
-<li><a href="https://www.youtube.com/user/RedHatVideos/" target="_blank">Red Hat Videos</a></li>/a></li>
-<li><a href="https://www.youtube.com/user/spacexchannel/" target="_blank">SpaceX</a></li>/a></li>
-<li><a href="https://www.youtube.com/user/Cisco/" target="_blank">Cisco</a></li>/a></li>
-<li><a href="https://www.youtube.com/user/AtGoogleTalks/" target="_blank">Talks at Google</a></li>/a></li>
-<li><a href="https://www.youtube.com/user/Google/" target="_blank">Google</a></li>/a></li>
-<li><a href="https://www.youtube.com/user/verizon" target="_blank">Verizon</a></li>/a></li>
+<li><a href="https://www.youtube.com/user/TeslaMotors/" target="_blank">Tesla</a></li>
+<li><a href="https://www.youtube.com/user/RedHatVideos/" target="_blank">Red Hat Videos</a></li>
+<li><a href="https://www.youtube.com/user/spacexchannel/" target="_blank">SpaceX</a></li>
+<li><a href="https://www.youtube.com/user/Cisco/" target="_blank">Cisco</a></li>
+<li><a href="https://www.youtube.com/user/AtGoogleTalks/" target="_blank">Talks at Google</a></li>
+<li><a href="https://www.youtube.com/user/Google/" target="_blank">Google</a></li>
+<li><a href="https://www.youtube.com/user/verizon" target="_blank">Verizon</a></li>
 </ol>
 <br>
 <li><b>University channel subscriptions</b></li>
