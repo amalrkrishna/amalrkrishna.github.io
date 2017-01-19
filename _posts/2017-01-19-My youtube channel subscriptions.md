@@ -21,17 +21,18 @@ Most people would know these companies. All are Technology based companies, as I
 <li><a href="https://www.youtube.com/user/Cisco/" target="_blank">Cisco</a></li>
 <li><a href="https://www.youtube.com/user/AtGoogleTalks/" target="_blank">Talks at Google</a></li>
 <li><a href="https://www.youtube.com/user/Google/" target="_blank">Google</a></li>
+<li><a href="https://www.youtube.com/user/amazon" target="_blank">amazon</a></li>
 <li><a href="https://www.youtube.com/user/verizon" target="_blank">Verizon</a></li>
 </ol>
 <br>
 <li><b>University channel subscriptions</b></li>
 <ol>
-<li><a href="https://www.youtube.com/user/MIT/" target="_blank">MIT OpenCourseWare</a>: Contains MOOCs and talks from the Massachusetts Institute of Technology (MIT). You can find large content of video materials from their OpenCourseWare initiative. Makes this the best of the lot.</li>
-<li><a href="https://www.youtube.com/user/nptelhrd/" target="_blank">nptelhrd</a>: Not specifically a single University channel. Contains lectures from the NPTEL initiative by the IISc/IITs. Large content base. Most of the topics are science and technology based.</li>
-<li><a href="https://www.youtube.com/user/UCBerkeley/" target="_blank">UCBerkeley</a>: Contains MOOCs from University of California, Berkeley.</li>
-<li><a href="https://www.youtube.com/user/caltech/" target="_blank">caltech</a>: Contains Seminars, talks and lectures from California Institute of Technology (Caltech)</li>
-<li><a href="https://www.youtube.com/user/stanfordonline/" target="_blank">stanfordonline</a>: Contains Seminars and lectures from Stanford University</li>
-<li><a href="https://www.youtube.com/user/YaleCourses/" target="_blank">YaleCourses</a>: Contains mostly lectures from Yale University. Range of topics includes science, history and politics etc.</li>
+<li><p align="justify"><a href="https://www.youtube.com/user/MIT/" target="_blank">MIT OpenCourseWare</a>: Contains MOOCs and talks from the Massachusetts Institute of Technology (MIT). You can find large content of video materials from their OpenCourseWare initiative. Makes this the best of the lot.</p></li>
+<li><p align="justify"><a href="https://www.youtube.com/user/nptelhrd/" target="_blank">nptelhrd</a>: Not specifically a single University channel. Contains lectures from the NPTEL initiative by the IISc/IITs. Large content base. Most of the topics are science and technology based.</p></li>
+<li><p align="justify"><a href="https://www.youtube.com/user/UCBerkeley/" target="_blank">UCBerkeley</a>: Contains MOOCs from University of California, Berkeley.</p></li>
+<li><p align="justify"><a href="https://www.youtube.com/user/caltech/" target="_blank">caltech</a>: Contains Seminars, talks and lectures from California Institute of Technology (Caltech)</p></li>
+<li><p align="justify"><a href="https://www.youtube.com/user/stanfordonline/" target="_blank">stanfordonline</a>: Contains Seminars and lectures from Stanford University</p></li>
+<li><p align="justify"><a href="https://www.youtube.com/user/YaleCourses/" target="_blank">YaleCourses</a>: Contains mostly lectures from Yale University. Range of topics includes science, history and politics etc.</p></li>
 
 </ol>
 </ol>
