@@ -37,7 +37,7 @@ tags:
 <li><a href="https://www.youtube.com/user/NASAtelevision" target="_blank">NASA</a></li>
 </ol>
 <br>
-<li><b>University channel subscriptions</b></li>
+<li><b>University channel subscriptions (Educational)</b></li>
 <ol>
 <li><p align="justify"><a href="https://www.youtube.com/user/MIT/" target="_blank">MIT OpenCourseWare</a>: Contains MOOCs and talks from the Massachusetts Institute of Technology (MIT). You can find large content of video materials from their OpenCourseWare initiative. Makes this the best of the lot.</p></li>
 <li><p align="justify"><a href="https://www.youtube.com/user/nptelhrd/" target="_blank">nptelhrd</a>: Not specifically a single University channel. Contains lectures from the NPTEL initiative by the IISc/IITs. Large content base. Most of the topics are science and technology based.</p></li>
@@ -46,5 +46,21 @@ tags:
 <li><p align="justify"><a href="https://www.youtube.com/user/stanfordonline/" target="_blank">stanfordonline</a>: Contains Seminars and lectures from Stanford University</p></li>
 <li><p align="justify"><a href="https://www.youtube.com/user/YaleCourses/" target="_blank">YaleCourses</a>: Contains mostly lectures from Yale University. Range of topics includes science, history and politics etc.</p></li>
 </ol>
+<br>
+<li><b>Educational channel subscriptions</b></li>
+<ol>
+<li><p align="justify"><a href="https://www.youtube.com/user/TEDtalksDirector/" target="_blank">TED</a>: I don't need to explain much about TED and what they stand for I guess. Most of the time they bring out amazing lectures with occational flops.</p></li>
+<li><p align="justify"><a href="https://www.youtube.com/user/TEDxTalks/" target="_blank">TEDx Talks</a>: The less impressive version of the above. There are many amazong videos even more awesome that the original TED ones. But because of too many videos, finding excellent talks are not that easy.</p></li>
+<li><p align="justify"><a href="https://www.youtube.com/user/TEDEducation/" target="_blank">TED-Ed</a>: Amazing animated educational videos and puzzles.</p></li>
+<li><p align="justify"><a href="https://www.youtube.com/user/thenewboston/" target="_blank">thenewboston</a>: Excellent channel for Programming, Web design etc.</p></li>
+<li><p align="justify"><a href="https://www.youtube.com/user/khanacademy/" target="_blank">Khan Academy</a>: Youtube handle of the famous Khan Academy. A lot of basic math, physics, chemistry videos. Good to refresh your memory.</p></li>
+<li><p align="justify"><a href="https://www.youtube.com/user/bigthink/" target="_blank">Big Think</a>: Amazing channel with very good educational content, sometimes delivered by experts.</p></li>
+<li><p align="justify"><a href="https://www.youtube.com/user/sentdex/" target="_blank">sentdex</a>: I love his Python tutorials on Machine learning, NLP etc.</p></li>
+<li><p align="justify"><a href="https://www.youtube.com/user/schooloflifechannel/" target="_blank">The School of Life</a>: Deals mostly with emotional education.</p></li>
+<li><p align="justify"><a href="https://www.youtube.com/user/braincraftvideo/" target="_blank">BrainCraft</a>: Channel dedicated to psychology and answering why we act the way we do.</p></li>
+<li><p align="justify"><a href="https://www.youtube.com/user/physicswoman/" target="_blank">Physics Girl</a>: MIT graduate makes videos on Physics.</p></li>
+<li><p align="justify"><a href="https://www.youtube.com/user/Best0fScience/" target="_blank">The Science Channel</a>: Videos related to Space Science (not that active now)</p></li>
+</ol>
+<br>
 </ol>
 <p align="justify">I will keep updating this list if I add anything more.</p>
