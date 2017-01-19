@@ -12,7 +12,7 @@ tags:
 
 <ol>
 <li><b>Company channel subscriptions</b></li>
-Most people would know these companies. All are Technology based companies, as I am more inclined to the same field.
+<p align="justify">Most people would know these companies. All are Technology based companies, as I am more inclined to the same field.</p>
 <ol>
 <li><a href="https://www.youtube.com/user/Apple/" target="_blank">Apple</a></li>
 <li><a href="https://www.youtube.com/user/TeslaMotors/" target="_blank">Tesla</a></li>
