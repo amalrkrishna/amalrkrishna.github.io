@@ -11,6 +11,31 @@ tags:
 <p align="justify">Listing down the youtube channels that I am currently subscribed to.</p>
 
 <ol>
+<li><b>Talk show channel subscriptions</b></li>
+<ol>
+<li><p align="justify"><a href="https://www.youtube.com/charlierose" target="_blank">Charlie Rose</a>: The quality and content of the interviews he takes is amazing. Serious kind. His talk shows are no joke.</p></li>
+<li><p align="justify"><a href="https://www.youtube.com/user/TheEllenShow/" target="_blank">TheEllenShow</a>: The best of the comdey celebrity talk shows. No politics. No bullshit. Just entertainment.</p></li>
+<li><p align="justify"><a href="https://www.youtube.com/user/latenight/" target="_blank">The Tonight Show Starring Jimmy Fallon</a>: Love it for the celebrity talk show and the games.</p></li>
+<li><p align="justify"><a href="https://www.youtube.com/user/LateNightSeth/" target="_blank">Late Night with Seth Meyers</a>: Very good celebrity talk show.</p></li>
+<li><p align="justify"><a href="https://www.youtube.com/user/LastWeekTonight/" target="_blank">LastWeekTonight</a>: Takes on politics and current affairs topics with comdey. Takes on issues far better than the occational digs of Jimmy Fallon, Steven Colbert and Seth Meyers.</p></li>
+<li><p align="justify"><a href="https://www.youtube.com/user/TheLateLateShow/" target="_blank">The Late Late Show with James Corden</a>: Carpool videos are amazing. Brought some variety to the table.</p></li>
+<li><p align="justify"><a href="https://www.youtube.com/channel/UCMtFAi84ehTSYSE9XoHefig/" target="_blank">The Late Show with Stephen Colbert</a>: Not the best in the lot, but definetly worth watching most of the times.</li>
+</ol>
+<li><b>Entertainment channel subscriptions</b></li>
+<p align="justify">Most people would know these companies. All are Technology based companies, as I am more inclined to the same field.</p>
+<ol>
+<li><a href="https://www.youtube.com/user/Apple/" target="_blank">Apple</a></li>
+<li><a href="https://www.youtube.com/user/TeslaMotors/" target="_blank">Tesla</a></li>
+<li><a href="https://www.youtube.com/user/RedHatVideos/" target="_blank">Red Hat Videos</a></li>
+<li><a href="https://www.youtube.com/user/spacexchannel/" target="_blank">SpaceX</a></li>
+<li><a href="https://www.youtube.com/user/Cisco/" target="_blank">Cisco</a></li>
+<li><a href="https://www.youtube.com/user/AtGoogleTalks/" target="_blank">Talks at Google</a></li>
+<li><a href="https://www.youtube.com/user/Google/" target="_blank">Google</a></li>
+<li><a href="https://www.youtube.com/user/amazon" target="_blank">amazon</a></li>
+<li><a href="https://www.youtube.com/user/verizon" target="_blank">Verizon</a></li>
+<li><a href="https://www.youtube.com/user/NASAtelevision" target="_blank">NASA</a></li>
+</ol>
+<br>
 <li><b>Company channel subscriptions</b></li>
 <p align="justify">Most people would know these companies. All are Technology based companies, as I am more inclined to the same field.</p>
 <ol>
@@ -23,6 +48,7 @@ tags:
 <li><a href="https://www.youtube.com/user/Google/" target="_blank">Google</a></li>
 <li><a href="https://www.youtube.com/user/amazon" target="_blank">amazon</a></li>
 <li><a href="https://www.youtube.com/user/verizon" target="_blank">Verizon</a></li>
+<li><a href="https://www.youtube.com/user/NASAtelevision" target="_blank">NASA</a></li>
 </ol>
 <br>
 <li><b>University channel subscriptions</b></li>
@@ -33,7 +59,6 @@ tags:
 <li><p align="justify"><a href="https://www.youtube.com/user/caltech/" target="_blank">caltech</a>: Contains Seminars, talks and lectures from California Institute of Technology (Caltech)</p></li>
 <li><p align="justify"><a href="https://www.youtube.com/user/stanfordonline/" target="_blank">stanfordonline</a>: Contains Seminars and lectures from Stanford University</p></li>
 <li><p align="justify"><a href="https://www.youtube.com/user/YaleCourses/" target="_blank">YaleCourses</a>: Contains mostly lectures from Yale University. Range of topics includes science, history and politics etc.</p></li>
-
 </ol>
 </ol>
 <p align="justify">I will keep updating this list if I add anything more.</p>
