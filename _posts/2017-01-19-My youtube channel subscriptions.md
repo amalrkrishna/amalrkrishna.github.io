@@ -70,7 +70,7 @@ tags:
 <li><p align="justify"><a href="https://www.youtube.com/user/khanacademy/" target="_blank">Khan Academy</a>: Youtube handle of the famous Khan Academy. A lot of basic math, physics, chemistry videos. Good to refresh your memory.</p></li>
 <li><p align="justify"><a href="https://www.youtube.com/user/bigthink/" target="_blank">Big Think</a>: Amazing channel with very good educational content, sometimes delivered by experts.</p></li>
 <li><p align="justify"><a href="https://www.youtube.com/user/techcrunch/" target="_blank">TechCrunch</a>: Brings out news about new start-ups and new internet products.</p></li>
-<li><p align="justify"><a href="https://www.youtube.com/user/CNETTV/" target="_blank">CNET</a>:Latest tech news and reviews about new products. </p></li>
+<li><p align="justify"><a href="https://www.youtube.com/user/CNETTV/" target="_blank">CNET</a>: Latest tech news and reviews about new products. </p></li>
 <li><p align="justify"><a href="https://www.youtube.com/user/sentdex/" target="_blank">sentdex</a>: I love his Python tutorials on Machine learning, NLP etc.</p></li>
 <li><p align="justify"><a href="https://www.youtube.com/user/nfeamster/" target="_blank">Nick Feamster</a>: Princeton University professor. Personal choice as he produces videos about Computer Networks, SDN principles etc.</p></li>
 <li><p align="justify"><a href="https://www.youtube.com/user/schooloflifechannel/" target="_blank">The School of Life</a>: Deals mostly with emotional education.</p></li>
