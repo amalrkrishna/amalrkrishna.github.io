@@ -31,11 +31,11 @@ hackerrank: amalrkrishna
 facebook: Ak.Grandiose
 #tel: +91 94970 59502
 #tel_full: tel:+919497059502
-google_maps: 'https://www.google.co.in/maps/place/Kannammoola,+Thiruvananthapuram,+Kerala/@8.5039161,76.9255026,16z/data=!3m1!4b1!4m5!3m4!1s0x3b05bbed155b36e7:0x8e7164da54682d2!8m2!3d8.5047689!4d76.9311761?hl=en'
-address: KRA 328A, Krishna Kripa, Medical College
+#google_maps: 'https://www.google.co.in/maps/place/Kannammoola,+Thiruvananthapuram,+Kerala/@8.5039161,76.9255026,16z/data=!3m1!4b1!4m5!3m4!1s0x3b05bbed155b36e7:0x8e7164da54682d2!8m2!3d8.5047689!4d76.9311761?hl=en'
+#address: KRA 328A, Krishna Kripa, Medical College
 postcode: 695011
-city: Thiruvananthapuram
-country: India
+city: Boston
+country: United States
 
 # needed for travis-ci build
 exclude: [vendor]
