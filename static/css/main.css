@@ -140,11 +140,13 @@ body {
   text-align: left;
 }
 .social {
+  text-align: center;
   max-width: 800px;
   padding-top: 12px;
   word-spacing: 25px;
 }
 .social h4 > a {
+  text-align: center;
   color: #000000;
 }
 .avatar {
