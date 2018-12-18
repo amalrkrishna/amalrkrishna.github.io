@@ -145,7 +145,6 @@ body {
 }
 .social h4 > a {
   display: inline-block;
-  vertical-align: top;
   color: #000000;
 }
 .avatar {
