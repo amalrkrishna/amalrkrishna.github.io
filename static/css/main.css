@@ -141,6 +141,8 @@ body {
 }
 .social {
   text-align: center;
+  width: auto;
+  max-width: 800px;
   padding-top: 12px;
   word-spacing: 25px;
 }
