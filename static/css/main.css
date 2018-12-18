@@ -145,6 +145,7 @@ body {
   word-spacing: 25px;
 }
 .social h4 > a {
+  text-align: center;
   color: #000000;
 }
 .avatar {
